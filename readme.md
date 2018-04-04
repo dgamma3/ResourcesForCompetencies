@@ -12,6 +12,6 @@
 - [Primary Language](Primary-Language.md)
 - [Self-Direction](self-direction.md)
 - [Stakeholder Engagement and Management](Stakeholder-Engagement-and-Management.md)
-- [Technical Leadership](Technical-Leadership,md)
+- [Technical Leadership](Technical-Leadership.md)
 - [Testing Approaches](Testing-Approaches.md)
 - [Time Management and Prioritisation](Time-Management-&-Prioritisation.md)
