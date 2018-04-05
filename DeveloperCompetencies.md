@@ -2,7 +2,7 @@
 
 - [Agile Practices and Methodologies](Agile.md)
 - [Architecture](Architecture.md)
-- [AWS](AWS.md)
+- [Cloud](Cloud.md)
 - [Coaching](Coaching.md)
 - [Engineering Craft](Engineering-Craft.md)
 - [Leading Technical Discussions](Leading-Technical-Discussions.md)

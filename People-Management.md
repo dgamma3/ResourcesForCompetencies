@@ -1,5 +1,13 @@
 # People Management
 
+Things like..
+- Holding good 121s
+
+Sample Resources
+
+### Holding good 121s
+- [Adrian Howard - How to Talk to Earthlings](https://www.youtube.com/watch?v=B1wgGzO6SIg)
+
 ## Level 1
 
 ### What it looks like

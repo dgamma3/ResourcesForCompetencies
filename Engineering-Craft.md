@@ -1,5 +1,10 @@
 # Engineering Craft
 
+
+Things like
+- Clean code
+- Refactoring
+
 ## Level 1
 
 ### What it looks like
@@ -30,6 +35,4 @@
 
 ### Resources
 
-Things like
-- Clean code
-- Refactoring
+
