@@ -36,6 +36,8 @@
 ## Level 5
 
 ### What it looks like
+- Identified and solved systemic problems with current architecture
+- Able to visualize and design complex systems with multiple product lines and integrations with external systems. Also should be able to design operations support systems like monitoring, reporting, fail overs etc.
 
 ### Resources
 
