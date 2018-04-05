@@ -1,5 +1,12 @@
 # Communication
 
+Things like
+- Non-violent communication
+- Presentation skills
+- Active listening
+- Asking good questions
+- Storytelling
+
 ## Level 1
 
 ### What it looks like

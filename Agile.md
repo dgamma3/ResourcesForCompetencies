@@ -1,5 +1,13 @@
 # Agile
 
+Things like
+- Kaizen
+- Scrum
+- Kanban
+- Continuous improvement
+- Short feedback loops
+- Customer at the centre
+
 ## Level 1
 
 ### What it looks like

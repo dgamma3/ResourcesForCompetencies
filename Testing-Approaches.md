@@ -1,5 +1,12 @@
 # Testing Approaches
 
+Things like
+- TDD
+- BDD
+- Mocking
+- Code coverage
+- Integration testing
+
 ## Level 1
 
 ### What it looks like

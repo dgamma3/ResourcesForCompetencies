@@ -1,4 +1,4 @@
-# Patterns and Coding Practices
+# Engineering Craft
 
 ## Level 1
 
@@ -29,3 +29,7 @@
 ### What it looks like
 
 ### Resources
+
+Things like
+- Clean code
+- Refactoring

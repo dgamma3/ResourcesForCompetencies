@@ -1,5 +1,10 @@
 # Delivery
 
+Things like
+- Iron Triangle
+- Understanding delivery metrics
+- Techniques for cutting scope
+
 ## Level 1
 
 ### What it looks like

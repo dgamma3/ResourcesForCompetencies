@@ -1,5 +1,9 @@
 # Architecture
 
+Things like
+- Technical debt
+- The ilities, performance, security
+
 ## Level 1
 
 ### What it looks like
