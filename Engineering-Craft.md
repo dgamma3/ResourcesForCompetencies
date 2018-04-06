@@ -1,9 +1,17 @@
 # Engineering Craft
 
-
 Things like
 - Clean code
 - Refactoring
+- Pull request conventions (small/atomic)
+- Pull requests - giving/receiving feedback
+- Debugging techniques
+- Code Review
+- Recognising code smells
+- Code hygiene
+- Able to iterate & improve code performance
+- Git techniques
+- Developer Tools
 
 ## Level 1
 

@@ -11,6 +11,8 @@ Sample Resources
 
 ### General
 [Pluralsight - Communications: How to Talk, Write, Present, and Get Ahead!](https://app.pluralsight.com/library/courses/communication-skills) [2:29:00]
+- Writing at Xero
+- Presenting to Influence
 
 ### Active listening
 - [Kate Matsudaira - Tips and Exercises to be a Better Listener](http://katemats.com/tips-exercises-better-listener/)

@@ -1,5 +1,11 @@
 # Software Development Lifecycle
 
+Things like..
+- Continuous Integration	
+- Continuous Delivery	
+- Monitoring
+- Debugging Techniques (?)
+
 ## Level 1
 
 ### What it looks like

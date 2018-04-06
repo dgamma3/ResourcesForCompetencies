@@ -9,3 +9,5 @@
 - [Sirin Joseph's Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
     - Pros - very in depth
     - Cons - very focused purely on the technical
+
+- [Software Engineering Job Ladder](https://blog.usejournal.com/the-software-engineering-job-ladder-4bf70b4c24f3)

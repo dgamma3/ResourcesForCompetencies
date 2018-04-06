@@ -3,6 +3,8 @@
 Things like
 - Technical debt
 - The ilities, performance, security
+- Architectural Design
+- Analysis
 
 ## Level 1
 

@@ -2,6 +2,8 @@
 
 Things like..
 - Holding good 121s
+- Hiring and Interviewing (?)
+- Goal setting (? - or is this growth)
 
 Sample Resources
 

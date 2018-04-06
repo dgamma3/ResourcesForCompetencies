@@ -6,6 +6,11 @@ Things like
 - Mocking
 - Code coverage
 - Integration testing
+- Performance testing
+- Security testing
+- Usability testing
+- Availability testing
+- Quality Advocacy (?)
 
 ## Level 1
 

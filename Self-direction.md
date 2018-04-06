@@ -1,5 +1,12 @@
 # Self Direction
 
+Things like..
+- Initiative
+- Automation
+- Organisation Collaboration - community
+- Decision Making
+- Time management & Prioritisation skills (?)
+
 ## Level 1
 
 ### What it looks like
