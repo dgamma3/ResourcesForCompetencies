@@ -7,6 +7,7 @@
 - [Engineering Craft](Engineering-Craft.md)
 - [Leading Technical Discussions](Leading-Technical-Discussions.md)
 - [Primary Language](Primary-Language.md)
+- [Product Thinking](Product-Thinking.md)
 - [Self-Direction](Self-direction.md)
 - [Software Development Lifecycle](Software-Development-Lifecycle.md)
 - [Stakeholder Engagement and Management](Stakeholder-Engagement-and-Management.md)

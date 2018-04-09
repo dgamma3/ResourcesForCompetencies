@@ -5,6 +5,7 @@ Things like..
 - Continuous Delivery	
 - Monitoring
 - Debugging Techniques (?)
+- Techniques for minimising technical risk
 
 ## Level 1
 

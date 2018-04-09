@@ -2,8 +2,12 @@
 
 Things like
 - Iron Triangle
-- Understanding delivery metrics
+- Understanding delivery metrics & proxy indicators
 - Techniques for cutting scope
+- Risk Management
+- Setting SLAs and SLOs
+- Value stream mapping
+
 
 ## Level 1
 
@@ -28,6 +32,7 @@ Things like
 ### What it looks like
 
 ### Resources
+- Read [Waltzing with Bears : Managing Risk on Software Projects - DeMarco and Lister](https://www.amazon.com/Waltzing-Bears-Managing-Software-Projects/dp/0932633609) 
 
 ## Level 5
 

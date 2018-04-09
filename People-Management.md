@@ -4,6 +4,8 @@ Things like..
 - Holding good 121s
 - Hiring and Interviewing (?)
 - Goal setting (? - or is this growth)
+- Performance management - managing high performers, people who are struggling, behaviour etc
+- [Relates to coaching](Coaching.md)
 
 Sample Resources
 

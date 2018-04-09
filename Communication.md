@@ -10,17 +10,17 @@ Things like
 Sample Resources
 
 ### General
-[Pluralsight - Communications: How to Talk, Write, Present, and Get Ahead!](https://app.pluralsight.com/library/courses/communication-skills) [2:29:00]
+[Pluralsight - Communications: How to Talk, Write, Present, and Get Ahead!](https://app.pluralsight.com/library/courses/communication-skills)
 - Writing at Xero
 - Presenting to Influence
 
 ### Active listening
 - [Kate Matsudaira - Tips and Exercises to be a Better Listener](http://katemats.com/tips-exercises-better-listener/)
-- [Pluralsight - Becoming a Better Listener](https://app.pluralsight.com/library/courses/becoming-better-listener) [1:36:00]
+- [Pluralsight - Becoming a Better Listener](https://app.pluralsight.com/library/courses/becoming-better-listener)
 
 ### Asking good questions and Answering Questions
 - [Kate Matsudaira - One Technique to Being Awesome You Aren’t Using Enough: Questions](http://katemats.com/one-technique-to-being-awesome-you-arent-using-enough-questions/) 
-- [Sasha Laundy - Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s) [31:01]
+- [Sasha Laundy - Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s)
 
 
 ## Level 1

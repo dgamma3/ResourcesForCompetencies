@@ -1,10 +1,8 @@
-# Cloud
+# Product Thinking
 
-Things like
-- Cloud architecture patterns for resiliency etc - some crossover here with Architecture
-- AWS broken down into levels of understanding?
-- Distributed architecture principles (CAP, rules etc)
-
+things like..
+- Understanding customer needs
+- Understanding what business success looks like
 
 ## Level 1
 
