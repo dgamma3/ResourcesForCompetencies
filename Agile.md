@@ -7,6 +7,8 @@ Things like
 - Continuous improvement
 - Short feedback loops
 - Customer at the centre
+- Lean
+
 
 ## Level 1
 

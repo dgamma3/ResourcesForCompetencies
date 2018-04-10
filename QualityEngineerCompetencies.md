@@ -1,0 +1,2 @@
+# Quality Engineer Competencies
+

@@ -18,12 +18,16 @@ Things like
 ### What it looks like
 
 ### Resources
+- Pragmatic Programmer
+- Code Complete
 
 ## Level 2
 
 ### What it looks like
 
 ### Resources
+- Refactoring - Fowler
+- Clean Code - Martin
 
 ## Level 3
 
