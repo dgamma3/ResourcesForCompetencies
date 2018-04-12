@@ -1,3 +1,3 @@
 # Quality Engineer Competencies
 
-- [Testing Approaches](Testing-Approaches.md)
+- [Testing Approaches](Competencies/Testing-Approaches.md)

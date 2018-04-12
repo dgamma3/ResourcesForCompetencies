@@ -1,7 +1,7 @@
 # People Lead Competencies
 
-- [People Management](People-Management.md)
-- [Delivery](Delivery.md)
-- [Communication](Communication.md)
-- [Growing People](Growing-People.md)
-- [Leadership](Leadership.md)
+- [People Management](Competencies/People-Management.md)
+- [Delivery](Competencies/Delivery.md)
+- [Communication](Competencies/Communication.md)
+- [Growing People](Competencies/Growing-People.md)
+- [Leadership](Competencies/Leadership.md)

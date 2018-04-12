@@ -1,4 +1,4 @@
 # Quality Coach Competencies
 
-- [Coaching](Coaching.md)
-- [Testing Approaches](Testing-Approaches.md)
+- [Coaching](Competencies/Coaching.md)
+- [Testing Approaches](Competencies/Testing-Approaches.md)

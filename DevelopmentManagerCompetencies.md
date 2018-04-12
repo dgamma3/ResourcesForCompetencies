@@ -1,10 +1,10 @@
 # Development Manager Competencies
 
-- [Architecture](Architecture.md)
-- [Communication](Communication.md)
-- [Delivery](Delivery.md)
-- [Growing People](Growing-People.md)
-- [Leadership](Leadership.md)
-- [People Management](People-Management.md)
-- [Self-Direction](Self-direction.md)
-- [Software Development Lifecycle](Software-Development-Lifecycle.md)
+- [Architecture](Competencies/Architecture.md)
+- [Communication](Competencies/Communication.md)
+- [Delivery](Competencies/Delivery.md)
+- [Growing People](Competencies/Growing-People.md)
+- [Leadership](Competencies/Leadership.md)
+- [People Management](Competencies/People-Management.md)
+- [Self-Direction](Competencies/Self-direction.md)
+- [Software Development Lifecycle](Competencies/Software-Development-Lifecycle.md)
