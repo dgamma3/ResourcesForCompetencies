@@ -6,6 +6,9 @@ Things like
 - Active listening
 - Asking good questions
 - Storytelling
+- Intentional communication
+- Technical Writing
+- Written Communication
 
 Sample Resources
 
