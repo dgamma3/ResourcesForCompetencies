@@ -1,20 +1,37 @@
 # Architecture
 
+The design and communication of high-level structures to enable and guide the design and development of software solutions that meet current and future business needs. 
+
 Things like
-- Technical debt
-- The ilities, performance, security
-- Architectural Design
-- Analysis
+- Security, Availability, Robustness, Integration
+- Integration, Logical and Physical placement 
+- Cost and Ownership Maintenance
+- Problem analysis, generalization
+- Option-enumeration, weighting, comparison
+- Requirement gathering and scoping
+- Knowledge of architectural and Software Design Patterns 
+- Communication and presentation skills
+- Knowledge of architectural and Software Design Patterns 
 
 ## Level 1
 
 ### What it looks like
+-Has awareness of architectural principles
+-Has an understanding of group specific infrastructure architecture guidelines
+-Can read and understand an infrastructure design document
 
 ### Resources
 
 ## Level 2
 
 ### What it looks like
+- Can appreciate an architectural design in the roadmap context
+- Contributing to;
+    - Requirement gathering
+    - Option presentation
+    - Design
+    - Implementation
+    - Operational transition planning
 
 ### Resources
 - Read [Head First Design Patterns - Sierra](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
@@ -23,6 +40,11 @@ Things like
 ## Level 3
 
 ### What it looks like
+- Owning / Producing Design documents
+- Technical Scoping of the design solution, alligning to current roadmap.
+- Generalisation of Problem set, to support further/wider roadmap decisions.
+- Project level implementation planning
+
 
 ### Resources
 - Read [Patterns of Enterprise Application Architecture - Fowler](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
@@ -43,6 +65,12 @@ Things like
 ### What it looks like
 - Identified and solved systemic problems with current architecture
 - Able to visualize and design complex systems with multiple product lines and integrations with external systems. Also should be able to design operations support systems like monitoring, reporting, fail overs etc.
+
+- Ownership, maintenance, and allignment of the current roadmap with business priorities.
+- Identifying opportunities from current challenges and building the future infrastructure roadmap.
+- Advising on technical priorities with Delivery management on NFR projects.
+- Takes ownership of architectural guidelines, and encouraging engagement and uptake
+
 
 ### Resources
 

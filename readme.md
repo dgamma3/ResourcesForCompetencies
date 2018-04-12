@@ -6,3 +6,4 @@
 - [Quality Coach](QualityCoachCompetencies.md)
 - [Quality Engineer](QualityEngineerCompetencies.md)
 - [Agile Team Facilitator](ATFCompetencies.md)
+- [Infrastructure Engineer](InfrastructureEngineeringCompetencies.md)
