@@ -9,8 +9,13 @@ Things like..
 
 Sample Resources
 
+### General
+- [People Management Ultimate Guide](https://www.makingbusinessmatter.co.uk/people-management-skills-ultimate/)
+
 ### Holding good 121s
 - [Adrian Howard - How to Talk to Earthlings](https://www.youtube.com/watch?v=B1wgGzO6SIg)
+
+
 
 ## Level 1
 

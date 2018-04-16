@@ -1,5 +1,8 @@
 # Time Management and Prioritisation
 
+Sample Resources
+- [Time Management Ultimate Guide](https://www.makingbusinessmatter.co.uk/time-management-skills-ultimate/)
+
 ## Level 1
 
 ### What it looks like

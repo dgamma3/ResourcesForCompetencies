@@ -4,6 +4,10 @@ Things like..
 - Inclusiveness
 - Influencing
 
+# Resources
+- [Leadership Ultimate Guide](https://www.makingbusinessmatter.co.uk/blog/leadership-skills-ultimate-guide/)
+
+
 ## Level 1
 
 ### What it looks like
