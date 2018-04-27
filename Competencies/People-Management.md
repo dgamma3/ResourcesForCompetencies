@@ -11,6 +11,7 @@ Sample Resources
 
 ### General
 - [People Management Ultimate Guide](https://www.makingbusinessmatter.co.uk/people-management-skills-ultimate/)
+- [Camille Fournier - The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 
 ### Holding good 121s
 - [Adrian Howard - How to Talk to Earthlings](https://www.youtube.com/watch?v=B1wgGzO6SIg)

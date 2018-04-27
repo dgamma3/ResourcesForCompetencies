@@ -20,7 +20,6 @@ Sample Resources
 - [Kate Heddleston - Criticism and Ineffective Feedback](https://kateheddleston.com/blog/criticism-and-ineffective-feedback)
 - [Phin Barnes - 23 Tools to Make Your Feedback Meaningful](http://firstround.com/review/23-Tools-to-Make-Feedback-Meaningful/)
 
-
 ## Level 1
 
 ### What it looks like

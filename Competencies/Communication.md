@@ -26,6 +26,14 @@ Sample Resources
 - [Kate Matsudaira - One Technique to Being Awesome You Aren’t Using Enough: Questions](http://katemats.com/one-technique-to-being-awesome-you-arent-using-enough-questions/) 
 - [Sasha Laundy - Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s)
 
+### Presentation Skills
+
+- [Awesome - Speaking](https://github.com/matteofigus/awesome-speaking)
+
+### Technical Writing
+
+- [Tracy Osborn - Writing So Your Words Are Read ](https://www.youtube.com/watch?v=8LiV759Bje0) [29:48]
+Takeaway: A lot of documentation is written at the level of the writer not the intended audience. Teach - don't tell. Add really short examples, get them to the success moment as early as possibly.
 
 ## Level 1
 

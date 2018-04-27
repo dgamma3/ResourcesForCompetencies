@@ -16,9 +16,9 @@ Things like
 ## Level 1
 
 ### What it looks like
--Has awareness of architectural principles
--Has an understanding of group specific infrastructure architecture guidelines
--Can read and understand an infrastructure design document
+- Has awareness of architectural principles
+- Has an understanding of group specific infrastructure architecture guidelines
+- Can read and understand an infrastructure design document
 
 ### Resources
 
