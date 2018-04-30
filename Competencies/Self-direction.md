@@ -1,6 +1,7 @@
 # Self Direction
 
 Things like..
+- Goal setting, focus on outcomes
 - Initiative
 - Automation
 - Organisation Collaboration - communities of practice
@@ -10,6 +11,11 @@ Things like..
 ## Level 1
 
 ### What it looks like
+
+Example Behaviours and Skills
+- Defines ambitious, but realistic, personal goals.
+- Works while meeting quality and performance standards.
+- Promptly and efficiently completes work assignments
 
 ### Resources
 
