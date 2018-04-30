@@ -10,10 +10,14 @@ Things like
 - Technical Writing
 - Written Communication
 
+
+- In Team Communication
+- Out of team communication
+
 Sample Resources
 
 ### General
-[Pluralsight - Communications: How to Talk, Write, Present, and Get Ahead!](https://app.pluralsight.com/library/courses/communication-skills)
+- [Pluralsight - Communications: How to Talk, Write, Present, and Get Ahead!](https://app.pluralsight.com/library/courses/communication-skills)
 - Writing at Xero
 - Presenting to Influence
 - [Communication Skills Ultimate Guide](https://www.makingbusinessmatter.co.uk/communication-skills-ultimate-guide/)

@@ -6,6 +6,11 @@ Things like
 - Distributed architecture principles (CAP, rules etc)
 
 
+Sample Resources
+
+- [A Cloud Guru](https://acloud.guru/)
+- [AWS Training and Certification](https://www.aws.training/)
+
 ## Level 1
 
 ### What it looks like

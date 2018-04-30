@@ -7,6 +7,8 @@ Things like
 - Risk Management
 - Setting SLAs and SLOs
 - Value stream mapping
+- Project Management
+
 
 
 ## Level 1
@@ -30,6 +32,7 @@ Things like
 ## Level 4
 
 ### What it looks like
+- Understanding and recording a project's risks, and owning the mitigating actions.
 
 ### Resources
 - Read [Waltzing with Bears : Managing Risk on Software Projects - DeMarco and Lister](https://www.amazon.com/Waltzing-Bears-Managing-Software-Projects/dp/0932633609) 

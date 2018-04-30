@@ -6,7 +6,6 @@ Things like..
 - Working with Juniors
 - Career Development
 
-
 Sample Resources 
 
 ## Ability to Grow People
@@ -24,11 +23,21 @@ Sample Resources
 
 ### What it looks like
 
+Example Behaviours and Skills
+- Shares opportunities for improvements and recognises achievements
+
 ### Resources
 
 ## Level 2
 
 ### What it looks like
+
+Example Behaviours and Skills
+- Offers effective career advice to group members, without being prescriptive
+- Holds regular, constructive 1:1s with team members
+
+Example Tasks Perfomed
+
 
 ### Resources
 
@@ -36,16 +45,24 @@ Sample Resources
 
 ### What it looks like
 
+Example Behaviours and Skills
+- Discusses paths, and creates plans for personal and professional growth
+
 ### Resources
 
 ## Level 4
 
 ### What it looks like
 
+Example Behaviours and Skills
+
 ### Resources
 
 ## Level 5
 
 ### What it looks like
+
+Example Behaviours and Skills
+- Supports and develops senior leaders.
 
 ### Resources

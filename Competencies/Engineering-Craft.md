@@ -18,8 +18,8 @@ Things like
 ### What it looks like
 
 ### Resources
-- Pragmatic Programmer
-- Code Complete
+- Pragmatic Programmer 
+- Code Complete - McConnell
 
 ## Level 2
 

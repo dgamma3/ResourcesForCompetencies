@@ -12,4 +12,12 @@
     - Influencing
     - Developing Talent (rather than growing people)
     - Analytical thinking?
-    - Team Building (https://www.makingbusinessmatter.co.uk/team-building-skills-ultimate-guide/)
+    - Interviewing, hiring and onboarding?
+    - Evangelism/outreach
+    - Database/persistence
+
+## Thoughts...
+- Should all competencies have 5 levels? 
+- Competency is the ability to do something successfully or efficiently (Chambers dictionary)
+- Competencies are made up of knowledge, skills and attitude 
+    - Should what it looks like be composed of behaviours and tasks like Medium framework

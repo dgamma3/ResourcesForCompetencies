@@ -3,7 +3,7 @@
 Things like..
 - Initiative
 - Automation
-- Organisation Collaboration - community
+- Organisation Collaboration - communities of practice
 - Decision Making
 - Time management & Prioritisation skills (?)
 
@@ -18,13 +18,14 @@ Things like..
 ### What it looks like
 
 ### Resources
+- [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact - Lau](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107)
 
 ## Level 3
 
 ### What it looks like
 
 ### Resources
-- [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact - Lau](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107)
+
 
 ## Level 4
 
