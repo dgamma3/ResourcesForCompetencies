@@ -21,3 +21,9 @@
 - Competency is the ability to do something successfully or efficiently (Chambers dictionary)
 - Competencies are made up of knowledge, skills and attitude 
     - Should what it looks like be composed of behaviours and tasks like Medium framework
+
+
+## Example frameworks used
+- OECD
+- Medium
+- Patreon
