@@ -28,11 +28,22 @@ Sample Resources
 
 ### What it looks like
 
+- Ensures own and others’ workloads are realistic and achievable
+- Provides staff with clear direction and objectives, ensuring they understand expectations
+- Gives staff autonomy and confidence to perform well and to their potential
+
+
 ### Resources
 
 ## Level 3
 
 ### What it looks like
+
+- Motivates and inspires others to perform to their best, recognising and valuing their work and encouraging them to learn and reflect
+- Sets clear direction and expectations and enables others to interpret competing priorities
+- Manages performance issues effectively to avoid adverse impact on team morale and performance
+- Promotes a positive team culture that respects diversity and deals with barriers to inclusion
+- Provides staff with opportunities to learn and develop
 
 ### Resources
 
@@ -45,5 +56,7 @@ Sample Resources
 ## Level 5
 
 ### What it looks like
+- Identifies strategic level performance indicators and communicates these clearly
+- Instils a culture of high performance and outstanding results where staff are encouraged to perform to their best
 
 ### Resources

@@ -18,6 +18,8 @@ Example Behaviours and Skills
 - Shares opportunities for improvements and recognises achievements
 - Shows an interest in growing self by taking advantage of learning opportunities provided to meet requirements of current job.
 - Sets clear self-development goals
+- Seeks clarity on objectives, ensuring a good understanding of expectations
+- Takes responsibility for own personal development plan
 
 ### Resources
 
@@ -32,6 +34,7 @@ Example Behaviours and Skills
 - Self-assesses against competency framework for current position to identify learning needs.
 - Effectively transfers acquired knowledge and expertise.
 - Demonstrates initiative in professional self development.
+- Recognises achievements
 
 Example Tasks Perfomed
 
