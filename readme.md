@@ -1,5 +1,17 @@
 # Competencies
 
+## What is this?
+- It is a career growth tool to help people have good career growth and career change conversation.
+- It is a crowd sourced set of resources to help people grow.
+- It might be useful as an interviewing tool.
+- It could be used as a capability uplift tool or possibly even a curriculum.
+
+## What is a Competency?
+Competency is the ability to do something successfully or efficiently (Chambers dictionary)
+
+
+## Roles
+
 - [Developer](DeveloperCompetencies.md)
 - [People Leads](PeopleLeadCompetencies.md)
 - [Development Manager](DevelopmentManagerCompetencies.md)
