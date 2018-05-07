@@ -1,5 +1,7 @@
 # Agile Team Facilitator Competencies
 
+## Primary Competencies 
+
 - [Agile Practices and Methodologies](Competencies/Agile.md)
 - [Coaching](Competencies/Coaching.md)
 - [Communication](Competencies/Communication.md)

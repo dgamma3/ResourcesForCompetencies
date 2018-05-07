@@ -13,6 +13,9 @@ Things like
 - Communication and presentation skills
 - Knowledge of architectural and Software Design Patterns 
 
+ Resources
+ - [System Design Primer](https://github.com/donnemartin/system-design-primer)
+
 ## Level 1
 
 ### What it looks like

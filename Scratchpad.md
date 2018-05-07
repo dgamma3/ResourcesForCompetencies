@@ -15,6 +15,10 @@
     - Interviewing, hiring and onboarding?
     - Evangelism/outreach
     - Database/persistence
+    - Supporting applications in production?
+        - logging, monitoring, sumologic
+        - Understanding infrastructure
+        - Debugging techniques
 
 ## Thoughts...
 - Should all competencies have 5 levels? 

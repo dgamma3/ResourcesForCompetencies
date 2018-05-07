@@ -1,5 +1,9 @@
 # Competencies
 
+## Disclaimer
+*This is very much a work in progress* - If you disagree with how I have assessed competency, assumed competencies for your role or anything else - feel free to raise a PR (or email me if you don't use Github).
+
+
 ## What is this?
 - It is a career growth tool to help people have good career growth and career change conversation.
 - It is a crowd sourced set of resources to help people grow.
@@ -9,6 +13,9 @@
 ## What is a Competency?
 Competency is the ability to do something successfully or efficiently (Chambers dictionary)
 
+## Important things to note...
+Not all the competencies under a role should be considered mandatory.
+Primary competencies will possibly be identified in the future.
 
 ## Roles
 
@@ -19,3 +26,4 @@ Competency is the ability to do something successfully or efficiently (Chambers 
 - [Quality Engineer](QualityEngineerCompetencies.md)
 - [Agile Team Facilitator](ATFCompetencies.md)
 - [Infrastructure Engineer](InfrastructureEngineeringCompetencies.md)
+

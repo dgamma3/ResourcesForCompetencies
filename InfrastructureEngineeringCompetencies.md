@@ -1,5 +1,7 @@
 # Infrastructure Engineer Competencies
 
+## Primary Competencies 
+
 - [Architecture](Competencies/Architecture.md)
 - [Infrastructure Development](Competencies/Infrastructure-Development.md)
 - [Infrastructure Engineering](Competencies/Infrastructure-Engineering.md)
