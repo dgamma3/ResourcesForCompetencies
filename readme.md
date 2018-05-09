@@ -13,10 +13,6 @@
 ## What is a Competency?
 Competency is the ability to do something successfully or efficiently (Chambers dictionary)
 
-## Important things to note...
-Not all the competencies under a role should be considered mandatory.
-Primary competencies will possibly be identified in the future.
-
 ## Roles
 
 - [Developer](DeveloperCompetencies.md)

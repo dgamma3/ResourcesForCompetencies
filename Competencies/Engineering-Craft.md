@@ -18,16 +18,16 @@ Things like
 ### What it looks like
 
 ### Resources
-- Pragmatic Programmer 
-- Code Complete - McConnell
+- Read [The Pragmatic Programmer: From Journeyman to Master - Hunt](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
+- Read [Code Complete 2 - McConnell](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
 
 ## Level 2
 
 ### What it looks like
 
 ### Resources
-- Refactoring - Fowler
-- Clean Code - Martin
+- Read [Refactoring: Improving the Design of Existing Code - Fowler](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
+- Read [Clean Code: A Handbook of Agile Software Craftsmanship - Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 
 ## Level 3
 

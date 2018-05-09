@@ -19,6 +19,9 @@
         - logging, monitoring, sumologic
         - Understanding infrastructure
         - Debugging techniques
+    - Data literacy
+    - Facilitation
+
 
 ## Thoughts...
 - Should all competencies have 5 levels? 
@@ -28,8 +31,14 @@
 - Primary and Secondary competencies which are mandatory/optional
 - Are there minimum levels for specific roles? Feels like there should be.
 - Tools later on
+- Junior, Mid level, Senior and Lead Developers may need separate competency pages
+
 
 ## Example frameworks used
 - OECD
 - Medium
 - Patreon
+
+
+## Criteria
+- Must be objective and observable

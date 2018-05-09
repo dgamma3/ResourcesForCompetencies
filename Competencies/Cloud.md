@@ -8,8 +8,8 @@ Things like
 
 Sample Resources
 
-- [A Cloud Guru](https://acloud.guru/)
-- [AWS Training and Certification](https://www.aws.training/)
+- Watch [A Cloud Guru](https://acloud.guru/)
+- Read [AWS Training and Certification](https://www.aws.training/)
 
 ## Level 1
 

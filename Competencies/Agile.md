@@ -8,6 +8,7 @@ Things like
 - Short feedback loops
 - Customer at the centre
 - Lean
+- Able to apply the correct tool to the situation
 
 
 ## Level 1

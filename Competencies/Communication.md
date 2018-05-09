@@ -17,11 +17,11 @@ Things like
 Sample Resources
 
 ### General
-- [Communication Skills Ultimate Guide](https://www.makingbusinessmatter.co.uk/communication-skills-ultimate-guide/)
+- Read [Communication Skills Ultimate Guide](https://www.makingbusinessmatter.co.uk/communication-skills-ultimate-guide/)
 
 ### Presentation Skills
 
-- [Awesome - Speaking](https://github.com/matteofigus/awesome-speaking)
+- Read [Awesome - Speaking](https://github.com/matteofigus/awesome-speaking)
 
 ## Level 1
 
@@ -33,8 +33,8 @@ Sample Resources
 - Checks for understanding
 
 ### Resources
-- [Tracy Osborn - Writing So Your Words Are Read ](https://www.youtube.com/watch?v=8LiV759Bje0) [29:48]
-- [Pluralsight - Communications: How to Talk, Write, Present, and Get Ahead!](https://app.pluralsight.com/library/courses/communication-skills)
+- Watch [Tracy Osborn - Writing So Your Words Are Read ](https://www.youtube.com/watch?v=8LiV759Bje0) [29:48]
+- Watch [Pluralsight - Communications: How to Talk, Write, Present, and Get Ahead!](https://app.pluralsight.com/library/courses/communication-skills)
 
 
 ## Level 2
@@ -51,10 +51,10 @@ Sample Resources
 
 ### Resources
 - Writing at Xero
-- [Kate Matsudaira - One Technique to Being Awesome You Aren’t Using Enough: Questions](http://katemats.com/one-technique-to-being-awesome-you-arent-using-enough-questions/) 
-- [Sasha Laundy - Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s)
-- [Kate Matsudaira - Tips and Exercises to be a Better Listener](http://katemats.com/tips-exercises-better-listener/)
-- [Pluralsight - Becoming a Better Listener](https://app.pluralsight.com/library/courses/becoming-better-listener)
+- Watch [Kate Matsudaira - One Technique to Being Awesome You Aren’t Using Enough: Questions](http://katemats.com/one-technique-to-being-awesome-you-arent-using-enough-questions/) 
+- Watch [Sasha Laundy - Your Brain's API: Giving and Getting Technical Help](https://www.youtube.com/watch?v=hY14Er6JX2s)
+- Read [Kate Matsudaira - Tips and Exercises to be a Better Listener](http://katemats.com/tips-exercises-better-listener/)
+- Watch [Pluralsight - Becoming a Better Listener](https://app.pluralsight.com/library/courses/becoming-better-listener)
 
 ## Level 3
 

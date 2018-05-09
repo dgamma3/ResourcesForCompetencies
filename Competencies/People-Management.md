@@ -10,13 +10,14 @@ Things like..
 Sample Resources
 
 ### General
-- [People Management Ultimate Guide](https://www.makingbusinessmatter.co.uk/people-management-skills-ultimate/)
-- [Camille Fournier - The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+- Read [People Management Ultimate Guide](https://www.makingbusinessmatter.co.uk/people-management-skills-ultimate/)
+- Read [The Manager's Path - Fournier](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 
 ### Holding good 121s
-- [Adrian Howard - How to Talk to Earthlings](https://www.youtube.com/watch?v=B1wgGzO6SIg)
+- Watch  [Adrian Howard - How to Talk to Earthlings](https://www.youtube.com/watch?v=B1wgGzO6SIg)
 
-
+### OKRS
+- Read [Awesome OKRs](https://github.com/domenicosolazzo/awesome-okr)
 
 ## Level 1
 

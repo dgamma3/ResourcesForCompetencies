@@ -2,6 +2,7 @@
 
 Sample Resources
 - [Time Management Ultimate Guide](https://www.makingbusinessmatter.co.uk/time-management-skills-ultimate/)
+- [Pluralsight - Time Management for Technical Professionals](https://app.pluralsight.com/library/courses/time-management-technical-professionals/table-of-contents)
 
 ## Level 1
 

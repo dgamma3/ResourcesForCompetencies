@@ -10,7 +10,6 @@
 - [Primary Language](Competencies/Primary-Language.md)
 - [Self-Direction](Competencies/Self-direction.md)
 - [Software Development Lifecycle](Competencies/Software-Development-Lifecycle.md)
-- [Stakeholder Engagement and Management](Competencies/Stakeholder-Engagement-and-Management.md)
 - [Testing Approaches](Competencies/Testing-Approaches.md)
 - [Time Management and Prioritisation](Competencies/Time-Management-&-Prioritisation.md)
 
@@ -18,4 +17,5 @@
 
 - [Coaching](Competencies/Coaching.md)
 - [Product Thinking](Competencies/Product-Thinking.md)
+- [Stakeholder Engagement and Management](Competencies/Stakeholder-Engagement-and-Management.md)
 - [Technical Leadership](Competencies/Technical-Leadership.md)

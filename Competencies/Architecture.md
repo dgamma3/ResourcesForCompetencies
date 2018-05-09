@@ -14,7 +14,7 @@ Things like
 - Knowledge of architectural and Software Design Patterns 
 
  Resources
- - [System Design Primer](https://github.com/donnemartin/system-design-primer)
+ - Read [System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 ## Level 1
 

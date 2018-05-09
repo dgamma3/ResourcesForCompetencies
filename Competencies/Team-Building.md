@@ -2,10 +2,10 @@
 
 ## Resources
 
-- [Kjell Ljøstad - How to build and be a part of a highly efficient team](https://vimeo.com/131748093)  [43:35]
-- [Patrick Lencioni - The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756)
-- [Team Building Ultimate Guide](https://www.makingbusinessmatter.co.uk/team-building-skills-ultimate-guide/)
-- [Conflict Resolution Ultimate Guide](https://www.makingbusinessmatter.co.uk/conflict-resolution-skills-ultimate/)
+- Watch [Kjell Ljøstad - How to build and be a part of a highly efficient team](https://vimeo.com/131748093)  [43:35]
+- Read [The Five Dysfunctions of a Team: A Leadership Fable - Lencioni](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756)
+- Read [Team Building Ultimate Guide](https://www.makingbusinessmatter.co.uk/team-building-skills-ultimate-guide/)
+- Read [Conflict Resolution Ultimate Guide](https://www.makingbusinessmatter.co.uk/conflict-resolution-skills-ultimate/)
 
 ## Level 1
 

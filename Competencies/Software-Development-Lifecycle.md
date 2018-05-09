@@ -15,6 +15,9 @@ Things like..
 - Repeatability
 - Testing within pipeline (integration testing)
 
+Resources
+- [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation - Humble and Farley](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
+
 ## Level 1
 
 ### What it looks like

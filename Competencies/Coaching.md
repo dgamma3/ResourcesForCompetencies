@@ -1,7 +1,11 @@
 # Coaching and Mentoring
 
-- [Coaching Skills Ultimate Guide](https://www.makingbusinessmatter.co.uk/coaching-skills-ultimate-guide/)
-- [Michael Bungary Stanier - The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](https://www.amazon.co.uk/gp/aw/d/B01BUIBBZI?qid=1464648063&sr=8-1-fkmr0)
+Resources
+- Take Coaching @ Xero
+- Read [Coaching Skills Ultimate Guide](https://www.makingbusinessmatter.co.uk/coaching-skills-ultimate-guide/)
+- Read [The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever - Bungary Stanier](https://www.amazon.com/Coaching-Habit-Less-Change-Forever/dp/0978440749)
+- Read [Coaching for Performance: GROWing Human Potential and Purpose - The Principles and Practice of Coaching and Leadership - Whitmore](https://www.amazon.com/Coaching-Performance-Potential-Principles-Leadership/dp/185788535X)
+- Read [The Complete Guide to Coaching at Work - Zeus and Skiffington](https://www.amazon.com/Complete-Guide-Coaching-Work/dp/0074708422)
 
 ## Level 1
 
