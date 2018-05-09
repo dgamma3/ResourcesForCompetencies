@@ -18,6 +18,8 @@ Sample Resources
 - Read [Built to Last: Successful Habits of Visionary Companies - Collins and Porras](https://www.amazon.com/Built-Last-Successful-Visionary-Essentials/dp/0060516402)
 - Read [Change Your Thinking - Edelman](https://www.amazon.com/Change-Your-Thinking-Overcome-Depression/dp/1600940528/)
 - Read [Working with Emotional Intelligence - Goleman](https://www.amazon.com/Working-Emotional-Intelligence-Daniel-Goleman/dp/0553378589)
+- Watch [The Puzzle of Motivation - Pink](http://www.ted.com/talks/dan_pink_on_motivation?language=en)
+- Watch [Why Leaders Eat Last - Sinek](https://vimeo.com/79899786)
 
 ## Level 1
 

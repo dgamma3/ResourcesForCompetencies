@@ -1,4 +1,4 @@
-# Agile
+# Agile Practices and Methodologies
 
 Things like
 - Kaizen
@@ -9,6 +9,8 @@ Things like
 - Customer at the centre
 - Lean
 - Able to apply the correct tool to the situation
+
+- Pays heed to Agile values and principles rather than process and mechanics
 
 
 ## Level 1

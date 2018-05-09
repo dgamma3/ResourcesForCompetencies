@@ -1,8 +1,11 @@
 # Growing People
 
 Things like..
-- Coaching
+- Coaching (see Coaching)
 - Working with Juniors
+- SMART objectives
+- OKRS
+
 
 Resources 
 - Read [Giving Feedback - HBR](https://www.amazon.com/Giving-Feedback-Solutions-Everyday-Challenges/dp/142210348X)

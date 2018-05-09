@@ -7,11 +7,12 @@ Things like..
 - Performance management - managing high performers, people who are struggling, behaviour etc
 - [Relates to coaching](Coaching.md)
 
-Sample Resources
+Resources
 
 ### General
 - Read [People Management Ultimate Guide](https://www.makingbusinessmatter.co.uk/people-management-skills-ultimate/)
 - Read [The Manager's Path - Fournier](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+- Read [The Leadership One Minute Manager - Blanchard and Johnson](https://www.amazon.com/New-One-Minute-Manager/dp/0062367544)
 
 ### Holding good 121s
 - Watch  [Adrian Howard - How to Talk to Earthlings](https://www.youtube.com/watch?v=B1wgGzO6SIg)

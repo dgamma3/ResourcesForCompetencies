@@ -10,11 +10,19 @@ Things like
 - Technical Writing
 - Written Communication
 
+- Understanding the needs of others
+- Clearly communicating messages
+- Adapting communication style based on audience
+- Uses range of communication methods
+- Awareness of personal impact
+
+Questions
+<!-- Does influencing go here as well as leadership /!-->
 
 - In Team Communication
 - Out of team communication
 
-Sample Resources
+Resources
 
 ### General
 - Read [Communication Skills Ultimate Guide](https://www.makingbusinessmatter.co.uk/communication-skills-ultimate-guide/)

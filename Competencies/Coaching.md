@@ -1,5 +1,14 @@
 # Coaching and Mentoring
 
+Things like
+- Setting the foundation
+- Establishing Trust
+- Defining measurable goals (see growing people)
+- Active listening (See communication)
+- Powerful questioning
+- Motivating style
+
+
 Resources
 - Take Coaching @ Xero
 - Read [Coaching Skills Ultimate Guide](https://www.makingbusinessmatter.co.uk/coaching-skills-ultimate-guide/)
