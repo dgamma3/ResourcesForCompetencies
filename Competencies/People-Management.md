@@ -19,6 +19,7 @@ Resources
 
 ### OKRS
 - Read [Awesome OKRs](https://github.com/domenicosolazzo/awesome-okr)
+- Watch [The Executioner's Tale - Wodtke](https://vimeo.com/86392023)  [21:36]
 
 ## Level 1
 

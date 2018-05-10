@@ -17,6 +17,10 @@ Resources
 - Read [The Goal: A Process of Ongoing Improvement - Goldratt](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951)
 - Read [The Mythical Man-Month: Essays on Software Engineering -  Brooks](https://www.amazon.com/Mythical-Man-Month-Essays-Software-Engineering/dp/0201006502)
 
+- Watch [Agile Metrics - Beyond Burn Up/Down's onto Metric Driven Coaching - Magennis](https://vimeo.com/144824390)
+- Watch [Velocity is not the goal - Norton](https://vimeo.com/97505655)
+- Watch [Mine Social Metrics from Source Code Repositories - Tornhill](https://vimeo.com/144670188) 
+
 ## Level 1
 
 ### What it looks like

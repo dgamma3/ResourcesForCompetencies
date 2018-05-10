@@ -13,6 +13,9 @@ Things like
 - Git techniques
 - Developer Tools
 
+Resources
+- Watch [Techniques for Debugging Hard Problems - Gaynor](https://www.youtube.com/watch?v=ij99SGGEX34)
+
 ## Level 1
 
 ### What it looks like
