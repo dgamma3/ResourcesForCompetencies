@@ -6,6 +6,7 @@
 - Read [The Five Dysfunctions of a Team: A Leadership Fable - Lencioni](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756)
 - Read [Team Building Ultimate Guide](https://www.makingbusinessmatter.co.uk/team-building-skills-ultimate-guide/)
 - Read [Conflict Resolution Ultimate Guide](https://www.makingbusinessmatter.co.uk/conflict-resolution-skills-ultimate/)
+- Watch [Pluralsight - Working on a Team](https://app.pluralsight.com/library/courses/working-on-a-team/table-of-contents)
 
 ## Level 1
 

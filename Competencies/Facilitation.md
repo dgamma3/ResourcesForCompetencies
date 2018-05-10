@@ -3,6 +3,7 @@
 Things like
 
 Resources
+- [Pluralsight - How to Run Effective Meetings](https://app.pluralsight.com/library/courses/run-effective-meetings/table-of-contents)
 
 ## Level 1
 

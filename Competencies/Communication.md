@@ -9,6 +9,7 @@ Things like
 - Intentional communication
 - Technical Writing
 - Written Communication
+- Visual Communication
 
 - Understanding the needs of others
 - Clearly communicating messages
@@ -29,6 +30,10 @@ Resources
 - Watch [How to speak so that people want to listen - Treasure](https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen)
 - Watch [5 ways to listen better - Treasure](https://www.ted.com/talks/julian_treasure_5_ways_to_listen_better)
 - Watch [How to Create Good Documentation - Gontovnikas](https://www.youtube.com/watch?v=lw9R2qMCdqk)
+- Watch [Pluralsight - Visual Communication: Creating Engaging and Effective Technical Diagrams](https://app.pluralsight.com/library/courses/visual-communication-technical-diagrams/table-of-contents)
+- Read [The Back of the Napkin: Solving Problems and Selling Ideas with Pictures - Roam](https://www.amazon.com/Back-Napkin-Expanded-Problems-Pictures/dp/1591842697)
+- Read [Visual Mojo - Express Edition - Cazaly](https://www.amazon.com/Visual-Mojo-Express-Lynne-Cazaly/dp/0987462911)
+
 
 ### Presentation Skills
 

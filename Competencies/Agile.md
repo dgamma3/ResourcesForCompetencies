@@ -16,6 +16,7 @@ Resources
 - Read [Modern Agile](http://modernagile.org/) and watch [Modern Agile Show](https://www.youtube.com/channel/UCMwCSEyUk59V8IQADpdn5PA/feed)
 - Read [Heart of Agile](http://heartofagile.com/)
 - Read [Awesome Agile Software Development](https://github.com/lorabv/awesome-agile-software-development)
+- Watch [Agile Product Ownership in a Nutshell](https://youtu.be/502ILHjX9EE)
 
 
 ## Level 1

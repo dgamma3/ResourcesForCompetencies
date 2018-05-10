@@ -1,5 +1,8 @@
 # Time Management and Prioritisation
 
+Things like..
+- When to ask for help
+
 Sample Resources
 - Read [Time Management Ultimate Guide](https://www.makingbusinessmatter.co.uk/time-management-skills-ultimate/)
 - Watch [Pluralsight - Time Management for Technical Professionals](https://app.pluralsight.com/library/courses/time-management-technical-professionals/table-of-contents)
