@@ -1,8 +1,9 @@
 # Time Management and Prioritisation
 
 Sample Resources
-- [Time Management Ultimate Guide](https://www.makingbusinessmatter.co.uk/time-management-skills-ultimate/)
-- [Pluralsight - Time Management for Technical Professionals](https://app.pluralsight.com/library/courses/time-management-technical-professionals/table-of-contents)
+- Read [Time Management Ultimate Guide](https://www.makingbusinessmatter.co.uk/time-management-skills-ultimate/)
+- Watch [Pluralsight - Time Management for Technical Professionals](https://app.pluralsight.com/library/courses/time-management-technical-professionals/table-of-contents)
+- Read [Getting Things Done](https://gettingthingsdone.com/)
 
 ## Level 1
 
@@ -21,7 +22,7 @@ Sample Resources
 ### What it looks like
 
 ### Resources
-- [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact - Lau](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107)
+- Read [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact - Lau](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107)
 
 ## Level 4
 

@@ -9,6 +9,7 @@ Things like..
 
 Sample Resources
 
+- Read [Awesome Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing)
 - Read [Leadership Ultimate Guide](https://www.makingbusinessmatter.co.uk/blog/leadership-skills-ultimate-guide/)
 - Read [Influencing Ultimate Guide](https://www.makingbusinessmatter.co.uk/influencing-skills-ultimate-guide/)
 - Read [How great leaders inspire action - Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
