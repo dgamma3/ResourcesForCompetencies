@@ -72,3 +72,7 @@ https://en.wikipedia.org/wiki/Competency_architecture#Example_guideline
 
 Not sure where it goes:
 - [Margaret Heffernan: Dare to disagree](http://www.ted.com/talks/margaret_heffernan_dare_to_disagree)
+- [Courtney Eckhardt - Complex System Failures and Blameless Retrospectives](https://www.youtube.com/watch?v=Sj0sdbiyatk)
+- [Emily Webber - Communities of Practice, the Missing Piece of Your Agile Organisation](https://www.youtube.com/watch?v=9Owrovki73o) 
+- [Paul Rayner - EventStorming - Collaborative Learning for Complex Domains](https://www.youtube.com/watch?v=04tGbixfGEY)
+- [Ben Rockwood - The Power of A3 Thinking in Action](https://www.youtube.com/watch?v=WoR2CYAwfEM)

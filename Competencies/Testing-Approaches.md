@@ -20,6 +20,8 @@ Resources
 - Read [The Art of Unit Testing: with examples in C# - Osherove](https://www.amazon.com/Art-Unit-Testing-examples/dp/1617290890)
 - Read [The Cucumber for Java Book: Behaviour-Driven Development for Testers and Developers -  Rose and Wynne](https://www.amazon.com/Cucumber-Java-Book-Behaviour-Driven-Development/dp/1941222293)
 - Read [The Ministry of Testing](https://www.ministryoftesting.com/)
+- Watch [467 tests, 0 failures, 0 confidence](https://vimeo.com/68730418)
+- Watch [TDD, where did it all go wrong](https://vimeo.com/68375232)
 
 ## Level 1
 

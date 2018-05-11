@@ -3,7 +3,8 @@
 Things like
 
 Resources
-- [Pluralsight - How to Run Effective Meetings](https://app.pluralsight.com/library/courses/run-effective-meetings/table-of-contents)
+- Watch [Pluralsight - How to Run Effective Meetings](https://app.pluralsight.com/library/courses/run-effective-meetings/table-of-contents)
+- Watch [Problem-solving techniques for groups](https://vimeo.com/126778448)
 
 ## Level 1
 

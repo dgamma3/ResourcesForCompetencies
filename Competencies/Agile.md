@@ -17,6 +17,7 @@ Resources
 - Read [Heart of Agile](http://heartofagile.com/)
 - Read [Awesome Agile Software Development](https://github.com/lorabv/awesome-agile-software-development)
 - Watch [Agile Product Ownership in a Nutshell](https://youtu.be/502ILHjX9EE)
+- Watch [Agile Revisited](https://www.youtube.com/watch?v=pcLbkmvqfiY)
 
 
 ## Level 1
