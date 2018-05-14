@@ -1,5 +1,7 @@
 # Technical Leadership
 
+- Is this just leadership?
+
 ## Level 1
 
 ### What it looks like

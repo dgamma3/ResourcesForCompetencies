@@ -1,5 +1,7 @@
 # Leading Technical Discussion
 
+- Is this just facilitation?
+
 ## Level 1
 
 ### What it looks like

@@ -26,6 +26,8 @@ Example Behaviours and Skills
 - Takes responsibility for own personal development plan
 
 ### Resources
+- Watch [Leveling Up - Taking your engineering & operations role to the next level](https://www.youtube.com/watch?v=lgxEmiMJVq4) 
+- Read [Kate Matsudaira's Being Awesome at your job](http://katemats.com/being-awesome-at-your-job/)
 
 ## Level 2
 

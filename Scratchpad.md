@@ -18,6 +18,10 @@
         - Understanding infrastructure
         - Debugging techniques
     - Innovation?
+    - Strategy
+    - change management
+    
+
 
 
 ## Thoughts...

@@ -38,6 +38,8 @@ Resources
 ### Presentation Skills
 
 - Read [Awesome - Speaking](https://github.com/matteofigus/awesome-speaking)
+- Go to Toastmasters
+- Take Presenting to Influence
 
 ## Level 1
 
