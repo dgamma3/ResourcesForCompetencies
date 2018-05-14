@@ -8,6 +8,7 @@ Things like
 - Setting SLAs and SLOs
 - Value stream mapping
 - Project Management
+- Systems thinking, theory of constraints
 
 Resources
 - Read [Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency - DeMarco](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698)

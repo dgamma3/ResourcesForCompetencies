@@ -7,6 +7,7 @@
 - Read [Team Building Ultimate Guide](https://www.makingbusinessmatter.co.uk/team-building-skills-ultimate-guide/)
 - Read [Conflict Resolution Ultimate Guide](https://www.makingbusinessmatter.co.uk/conflict-resolution-skills-ultimate/)
 - Watch [Pluralsight - Working on a Team](https://app.pluralsight.com/library/courses/working-on-a-team/table-of-contents)
+- Read and Experiment with the [Atlassian Playbook](https://www.atlassian.com/team-playbook)
 
 ## Level 1
 
