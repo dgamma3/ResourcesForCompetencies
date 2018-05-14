@@ -80,3 +80,8 @@ Not sure where it goes:
 - [Emily Webber - Communities of Practice, the Missing Piece of Your Agile Organisation](https://www.youtube.com/watch?v=9Owrovki73o) 
 - [Paul Rayner - EventStorming - Collaborative Learning for Complex Domains](https://www.youtube.com/watch?v=04tGbixfGEY)
 - [Ben Rockwood - The Power of A3 Thinking in Action](https://www.youtube.com/watch?v=WoR2CYAwfEM)
+
+Read
+- [Facilitation Resources](http://www.chriscorrigan.com/parkinglot/facilitation-resources/)
+- [Facilitation Toolkit](http://learningforsustainability.net/facilitation/)
+- [Facilitation Tools](https://seedsforchange.org.uk/tools.pdf)
