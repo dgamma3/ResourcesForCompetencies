@@ -15,6 +15,13 @@ Things like
 
  Resources
  - Read [System Design Primer](https://github.com/donnemartin/system-design-primer)
+ - Read [Awesome Microservices](https://github.com/mfornos/awesome-microservices)
+ - Read [Awesome Distributed Systems](https://github.com/theanalyst/awesome-distributed-systems)
+ - Read [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
+ - Watch [Event Driven Architecture](https://www.youtube.com/watch?v=STKCRSUsyP0)
+ - Read [Building Evolutionary Architectures: Support Constant Change - Ford, Parsons and Kua](https://www.amazon.com/Building-Evolutionary-Architectures-Support-Constant/dp/1491986360)
+ - Watch [Evolutionary Architecture - ThoughtWorks Talks Tech](https://www.youtube.com/watch?v=7e6Ww8b2hzQ)
+ - Read [Building Microservices: Designing Fine-Grained Systems - Newman](https://www.amazon.com.au/Building-Microservices-Sam-Newman/dp/1491950358)
 
 ## Level 1
 

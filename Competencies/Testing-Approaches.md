@@ -22,6 +22,8 @@ Resources
 - Read [The Ministry of Testing](https://www.ministryoftesting.com/)
 - Watch [467 tests, 0 failures, 0 confidence](https://vimeo.com/68730418)
 - Watch [TDD, where did it all go wrong](https://vimeo.com/68375232)
+- Read [Agile Testing](https://agiletester.ca/)
+- Read and Watch [Explore It! Reduce Risk and Increase Confidence with Exploratory Testing - Hendrickson](https://pragprog.com/book/ehxta/explore-it)
 
 ## Level 1
 

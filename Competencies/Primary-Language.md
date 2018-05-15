@@ -1,5 +1,16 @@
 # Primary Language
 
+- Should this be a per language path? 
+    - C#
+    - Swift
+    - Kotlin
+    - Javascript
+    - Typescript
+    - Python
+
+Resources
+- [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance)
+
 ## Level 1
 
 ### What it looks like

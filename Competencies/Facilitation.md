@@ -3,7 +3,8 @@
 Things like
 - Retrospectives
 - Running effective meetings
-
+- Visual Facilitation
+- Retrospectives
 
 Resources
 - Watch [Pluralsight - How to Run Effective Meetings](https://app.pluralsight.com/library/courses/run-effective-meetings/table-of-contents)
@@ -16,6 +17,11 @@ Resources
 - Read and Experiment with [Session Lab - Library of Facilitation Resources](https://www.sessionlab.com/library)
 - Read and Experiment with [Retromat](https://plans-for-retrospectives.com) and [Book](https://plans-for-retrospectives.com/en/print)
 - Read [Role of a Facilitator](https://www.mindtools.com/pages/article/RoleofAFacilitator.htm)
+- Read [The Field of Facilitation](https://thefieldoffacilitation.wordpress.com/)
+- Read [The role of a facilitator](https://www.mindtools.com/community/pages/article/RoleofAFacilitator.php)
+- Read [A Coach’s Guide to Facilitation](https://drive.google.com/file/d/0By6IHn_q3F2WNnVVZ3lkX3NDem8/view)
+- Read [Agile Retrospectives - Derby](https://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649)
+- Read and Experiment with [Bikablo - Visual Facilitation](http://www.marcelvanhove.com/freetraining)
 
 ## Level 1
 
