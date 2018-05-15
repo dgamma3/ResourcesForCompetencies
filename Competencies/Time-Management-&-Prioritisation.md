@@ -7,6 +7,7 @@ Sample Resources
 - Read [Time Management Ultimate Guide](https://www.makingbusinessmatter.co.uk/time-management-skills-ultimate/)
 - Watch [Pluralsight - Time Management for Technical Professionals](https://app.pluralsight.com/library/courses/time-management-technical-professionals/table-of-contents)
 - Read [Getting Things Done](https://gettingthingsdone.com/)
+- Read [The Pomodoro Technique: The Acclaimed Time Management System That Has Transformed How We Work - Cirillo](https://www.amazon.com/Pomodoro-Technique-Acclaimed-Management-Transformed/dp/1524760706)
 
 ## Level 1
 

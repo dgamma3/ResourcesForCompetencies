@@ -8,6 +8,7 @@
 - Read [Conflict Resolution Ultimate Guide](https://www.makingbusinessmatter.co.uk/conflict-resolution-skills-ultimate/)
 - Watch [Pluralsight - Working on a Team](https://app.pluralsight.com/library/courses/working-on-a-team/table-of-contents)
 - Read and Experiment with the [Atlassian Playbook](https://www.atlassian.com/team-playbook)
+- Read [Ground Rules for Effective Teams](http://www.mountainrootsfoodproject.org/Document_Archive_files/Ground_Rules_for_Effective_Teams_Fourth_Edition-1.pdf)
 
 ## Level 1
 

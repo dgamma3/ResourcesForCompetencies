@@ -85,3 +85,5 @@ Read
 - [Facilitation Resources](http://www.chriscorrigan.com/parkinglot/facilitation-resources/)
 - [Facilitation Toolkit](http://learningforsustainability.net/facilitation/)
 - [Facilitation Tools](https://seedsforchange.org.uk/tools.pdf)
+- [eXtreme Project Management: Using Leadership, Principles, and Tools to Deliver Value in the Face of Volatility - DeCarlo](https://www.amazon.com/eXtreme-Project-Management-Leadership-Principles/dp/0787974099)
+
