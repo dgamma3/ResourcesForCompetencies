@@ -10,8 +10,6 @@ Things like
 - Option-enumeration, weighting, comparison
 - Requirement gathering and scoping
 - Knowledge of architectural and Software Design Patterns 
-- Communication and presentation skills
-- Knowledge of architectural and Software Design Patterns 
 
  Resources
  - Read [System Design Primer](https://github.com/donnemartin/system-design-primer)

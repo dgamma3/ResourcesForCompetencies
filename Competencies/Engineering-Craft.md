@@ -15,6 +15,7 @@ Things like
 
 Resources
 - Watch [Techniques for Debugging Hard Problems - Gaynor](https://www.youtube.com/watch?v=ij99SGGEX34)
+- Read and Experiment with [Perf Tooling Today](http://www.perf-tooling.today/)
 
 ## Level 1
 

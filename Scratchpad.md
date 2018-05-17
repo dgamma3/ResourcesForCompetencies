@@ -24,7 +24,11 @@
 
 
 
+
+
 ## Thoughts...
+
+- Roles are entry criteria (and in role)
 - Should all competencies have 5 levels? 
 - Competency is the ability to do something successfully or efficiently (Chambers dictionary)
 - Competencies are made up of knowledge, skills and attitude 
@@ -86,4 +90,3 @@ Read
 - [Facilitation Toolkit](http://learningforsustainability.net/facilitation/)
 - [Facilitation Tools](https://seedsforchange.org.uk/tools.pdf)
 - [eXtreme Project Management: Using Leadership, Principles, and Tools to Deliver Value in the Face of Volatility - DeCarlo](https://www.amazon.com/eXtreme-Project-Management-Leadership-Principles/dp/0787974099)
-

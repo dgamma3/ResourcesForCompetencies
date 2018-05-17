@@ -24,6 +24,7 @@ Resources
 - Watch [TDD, where did it all go wrong](https://vimeo.com/68375232)
 - Read [Agile Testing](https://agiletester.ca/)
 - Read and Watch [Explore It! Reduce Risk and Increase Confidence with Exploratory Testing - Hendrickson](https://pragprog.com/book/ehxta/explore-it)
+- Read and Experiment with [Perf Tooling Today](http://www.perf-tooling.today/)
 
 ## Level 1
 
