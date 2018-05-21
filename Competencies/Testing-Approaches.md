@@ -12,6 +12,8 @@ Things like
 - Availability testing
 - Quality Advocacy (?)
 - Exploratory testing
+- Accessibility testing
+- Context driven testing
 
 Resources
 - Read [Test Driven Development: By Example - Beck](https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530)
@@ -25,12 +27,33 @@ Resources
 - Read [Agile Testing](https://agiletester.ca/)
 - Read and Watch [Explore It! Reduce Risk and Increase Confidence with Exploratory Testing - Hendrickson](https://pragprog.com/book/ehxta/explore-it)
 - Read and Experiment with [Perf Tooling Today](http://www.perf-tooling.today/)
+- Read [Specification by example - Adzic](https://www.bookdepository.com/Specification-by---Example-Gojko-Adzic)
+- Read [A Practical Guide to Testing in DevOps - Clokie](https://leanpub.com/testingindevops)
+- Read [Fifty Quick Ideas to Improve Your Tests - Evans](https://www.bookdepository.com/Fifty-Quick-Ideas-Improve-Your-Tests-David-Evans/9780993088117)
+- Read [More Agile Testing (part 2) - Gregory & Crispin](https://www.bookdepository.com/More-Agile-Testing-Janet-Gregory/9780321967053)
+- Take the [Rapid Software Testing 4.0 Course](http://www.satisfice.com/blog/rst-info)
+
+Good blogs to follow on the craft of software testing
+- Read [Satisfice](http://www.satisfice.com/blog/)
+- Read [Ajay’s Blog](http://enjoytesting.blogspot.com.au)
+- Read [Anne-Marie Charrett’s Blog](https://mavericktester.com)
+- Read [Dhanasekar S’s Blog](https://testingideas.wordpress.com)
+- Read [Erik Brickarp’s Blog](ttp://erik.brickarp.se)
+- Read [Hello Test World (NZ)](https://hellotestworld.com)
+- Read [Jon Bach’s Blog](https://jonbox.wordpress.com)
+- Read [Katrina the Tester](http://katrinatester.blogspot.com.au)
+- Read [Matthew Heusser’s Blog](http://xndev.blogspot.com.au)
+- Read [Michael Bolton’s Blog](http://www.developsense.com/blog/)
+- Read [Parimala’s Blog](http://curioustester.blogspot.com.au)
+- Read [Shrini Kulkarni’s Blog](http://shrinik.blogspot.com.au)
+- Read [Steve Smith’s Blog](http://stevenmsmith.com/category/blogs/)
 
 ## Level 1
 
 ### What it looks like
 
 ### Resources
+- [Testing for non-testers](http://katrinatester.blogspot.com.au/2015/11/testing-for-non-testers-pathway.html)
 
 ## Level 2
 
