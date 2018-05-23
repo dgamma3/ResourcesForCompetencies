@@ -36,6 +36,9 @@ Sample Resources
 ## Level 2
 
 ### What it looks like
+- Lead by influence in the immediate team
+- Show don't tell
+- Collaborate to achieve team goals
 
 ### Resources
 - Emerging Leaders M@X
@@ -44,6 +47,9 @@ Sample Resources
 ## Level 3
 
 ### What it looks like
+- Coaching peers and/or direct reports
+- Influencing beyond the team and immediately up
+- Engaging an audience on an issue, inspiring others to take ownership
 
 ### Resources
 - M@X
@@ -51,12 +57,18 @@ Sample Resources
 ## Level 4
 
 ### What it looks like
+- Influencing at the organisation level
+- Sought out by people across the org
+- Build relationships and networks across the organisation
 
 ### Resources
 
 ## Level 5
 
 ### What it looks like
+- Leading inititatives across the organisation
+- Thought leadership inside and outside the org
+- Inspire and grow great new leaders
 
 ### Resources
 - M@X 303

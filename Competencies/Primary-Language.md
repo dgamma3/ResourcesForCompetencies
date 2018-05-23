@@ -10,10 +10,12 @@
 
 Resources
 - [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance)
+- [Good Reads ♥ #fedlove](https://confluence.teamxero.com/pages/viewpage.action?pageId=84476802)
 
 ## Level 1
 
 ### What it looks like
+Example Behaviours and Skills
 
 ### Resources
 
