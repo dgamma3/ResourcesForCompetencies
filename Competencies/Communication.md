@@ -78,6 +78,7 @@ Openly communicates with your team by engaging in meaningful two way conversatio
 - Read [Kate Matsudaira - Tips and Exercises to be a Better Listener](http://katemats.com/tips-exercises-better-listener/)
 - Watch [Pluralsight - Becoming a Better Listener](https://app.pluralsight.com/library/courses/becoming-better-listener)
 - Watch [5 ways to listen better - Treasure](https://www.ted.com/talks/julian_treasure_5_ways_to_listen_better)
+- Read [Erin Meyer - The Culture Map](https://www.erinmeyer.com/book/)
 
 ## Level 3
 
