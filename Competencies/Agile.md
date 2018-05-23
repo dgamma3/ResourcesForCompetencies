@@ -6,8 +6,11 @@ Things like
 - Kanban
 - Continuous improvement
 - Short feedback loops
+- Transparency
 - Customer at the centre
 - Lean
+- User Story Mapping
+- Extreme Programming
 - Able to apply the correct tool to the situation
 
 - Pays heed to Agile values and principles rather than process and mechanics
@@ -18,6 +21,7 @@ Resources
 - Read [Awesome Agile Software Development](https://github.com/lorabv/awesome-agile-software-development)
 - Watch [Agile Product Ownership in a Nutshell](https://youtu.be/502ILHjX9EE)
 - Watch [Agile Revisited](https://www.youtube.com/watch?v=pcLbkmvqfiY)
+- Read [User Story Mapping](https://jpattonassociates.com/user-story-mapping/)
 
 
 ## Level 1

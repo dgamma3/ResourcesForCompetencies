@@ -4,7 +4,6 @@ Things like
 - Retrospectives
 - Running effective meetings
 - Visual Facilitation
-- Retrospectives
 
 Resources
 - Watch [Pluralsight - How to Run Effective Meetings](https://app.pluralsight.com/library/courses/run-effective-meetings/table-of-contents)
@@ -16,6 +15,7 @@ Resources
 - Read and Experiment with [Retrospectives](http://retrospectivewiki.org/index.php?title=Retrospective_Plans)
 - Read and Experiment with [Session Lab - Library of Facilitation Resources](https://www.sessionlab.com/library)
 - Read and Experiment with [Retromat](https://plans-for-retrospectives.com) and [Book](https://plans-for-retrospectives.com/en/print)
+- Read and Experiment with [Fun Retrospectives](http://www.funretrospectives.com/)
 - Read [Role of a Facilitator](https://www.mindtools.com/pages/article/RoleofAFacilitator.htm)
 - Read [The Field of Facilitation](https://thefieldoffacilitation.wordpress.com/)
 - Read [The role of a facilitator](https://www.mindtools.com/community/pages/article/RoleofAFacilitator.php)
@@ -26,29 +26,35 @@ Resources
 ## Level 1
 
 ### What it looks like
+Establishing a plan for a session using vanilla approaches for "standard" meetings in small groups.
 
 ### Resources
 
 ## Level 2
 
 ### What it looks like
+Effective timeboxing.
 
 ### Resources
 
 ## Level 3
 
 ### What it looks like
-
+Identify specific deficiencies that facilitation will address in advance of a session and being able to cater the activities help address them.
+Identifying group dynamics and catering the facilitation to suit.
 ### Resources
 
 ## Level 4
 
 ### What it looks like
+Handling challenging groups where there is no buy-in.
+Handling large groups.
 
 ### Resources
 
 ## Level 5
 
 ### What it looks like
+Mentoring and coaching junior/other facilitators.
 
 ### Resources

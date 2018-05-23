@@ -1,5 +1,10 @@
 # Team Building
 
+Things like
+- Establishing trust
+- Building empathy
+- Fostering individual and team responsibility
+
 ## Resources
 
 - Watch [Kjell Ljøstad - How to build and be a part of a highly efficient team](https://vimeo.com/131748093)  [43:35]

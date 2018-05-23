@@ -7,7 +7,7 @@ Things like..
 - Debugging Techniques (?)
 - Techniques for minimising technical risk
 - CI/CD tooling
-- Build pipeline sequencing 
+- Build pipeline sequencing
 - Environment Management
 - Configuration management
 - Artifact lifecycle management
@@ -56,7 +56,7 @@ Example Tasks Performed
 ### What it looks like
 
 Example Behaviours and Skills
-- Takes a lead on design, consultation, stakeholder engagement 
+- Takes a lead on design, consultation, stakeholder engagement
 - Takes a lead in the documentation of pipelines
 - Understands that not all problems can be solved with tools, and that there is an essential human element
 - Can compare and contrast various tradeoffs in pipeline design (speed vs reliability, test coverage, etc)
@@ -89,7 +89,7 @@ Example Behaviours and Skills
 - Is a leader across the organisation in driving CI/CD process improvements
 - Is an evangelist for CI/CD, championing organisational change and improvement.
 - Can identify unmet needs across the business and be an advocate for paradigm change.
-- Is a respected thinker in new patterns and trends and can pick the winners. 
+- Is a respected thinker in new patterns and trends and can pick the winners.
 - Identifying solutions to obstacles that prevent greater adoption of CI/CD , and driving their implementation.
 
 

@@ -2,7 +2,7 @@
 
 ## Graduate Developer
 
-### Primary Competencies 
+### Primary Competencies
 
 - [Communication](Competencies/Communication.md)
 - [Primary Language](Competencies/Primary-Language.md)
@@ -11,7 +11,7 @@
 
 ## Junior Developer
 
-### Primary Competencies 
+### Primary Competencies
 
 - [Agile Practices and Methodologies](Competencies/Agile.md)
 - [Communication](Competencies/Communication.md)
@@ -30,7 +30,7 @@
 
 ## Developer
 
-### Primary Competencies 
+### Primary Competencies
 
 - [Agile Practices and Methodologies](Competencies/Agile.md)
 - [Architecture](Competencies/Architecture.md)
@@ -50,11 +50,12 @@
 - [Leading Technical Discussions](Competencies/Leading-Technical-Discussion.md)
 - [Product Thinking](Competencies/Product-Thinking.md)
 - [Stakeholder Engagement and Management](Competencies/Stakeholder-Engagement-and-Management.md)
+- [Accessibility](Competencies/Accessibility.md)
 
 
 ## Senior Developer
 
-### Primary Competencies 
+### Primary Competencies
 
 - [Agile Practices and Methodologies](Competencies/Agile.md)
 - [Architecture](Competencies/Architecture.md)
@@ -70,6 +71,8 @@
 - [Stakeholder Engagement and Management](Competencies/Stakeholder-Engagement-and-Management.md)
 - [Testing Approaches](Competencies/Testing-Approaches.md)
 - [Time Management and Prioritisation](Competencies/Time-Management-&-Prioritisation.md)
+- [Accessibility](Competencies/Accessibility.md)
+
 
 ### Secondary Competencies
 
@@ -77,7 +80,7 @@
 
 ## Lead Developer
 
-### Primary Competencies 
+### Primary Competencies
 
 - [Agile Practices and Methodologies](Competencies/Agile.md)
 - [Architecture](Competencies/Architecture.md)
@@ -94,4 +97,4 @@
 - [Stakeholder Engagement and Management](Competencies/Stakeholder-Engagement-and-Management.md)
 - [Testing Approaches](Competencies/Testing-Approaches.md)
 - [Time Management and Prioritisation](Competencies/Time-Management-&-Prioritisation.md)
-
+- [Accessibility](Competencies/Accessibility.md)

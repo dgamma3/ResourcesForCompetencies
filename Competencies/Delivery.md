@@ -3,6 +3,7 @@
 Things like
 - Iron Triangle
 - Understanding delivery metrics & proxy indicators
+- Sustainable practices
 - Techniques for cutting scope
 - Risk Management
 - Setting SLAs and SLOs
@@ -20,7 +21,7 @@ Resources
 
 - Watch [Agile Metrics - Beyond Burn Up/Down's onto Metric Driven Coaching - Magennis](https://vimeo.com/144824390)
 - Watch [Velocity is not the goal - Norton](https://vimeo.com/97505655)
-- Watch [Mine Social Metrics from Source Code Repositories - Tornhill](https://vimeo.com/144670188) 
+- Watch [Mine Social Metrics from Source Code Repositories - Tornhill](https://vimeo.com/144670188)
 
 ## Level 1
 
@@ -46,7 +47,7 @@ Resources
 - Understanding and recording a project's risks, and owning the mitigating actions.
 
 ### Resources
-- Read [Waltzing with Bears : Managing Risk on Software Projects - DeMarco and Lister](https://www.amazon.com/Waltzing-Bears-Managing-Software-Projects/dp/0932633609) 
+- Read [Waltzing with Bears : Managing Risk on Software Projects - DeMarco and Lister](https://www.amazon.com/Waltzing-Bears-Managing-Software-Projects/dp/0932633609)
 
 ## Level 5
 
