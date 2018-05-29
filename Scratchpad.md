@@ -2,6 +2,10 @@
 
 - Are these competencies?
     - Problem solving
+        - Analytical thinking?
+        - Creative thinking
+        - Innovation?
+    
     - adaptability
     - resilience, perserverance, patience, persistence
     - Collaboration/team orientation
@@ -9,20 +13,25 @@
     - result focus -> self direction?
     - planning and organising
     - business awareness?
-    - Analytical thinking?
-    - Interviewing, hiring and onboarding?
     - Evangelism/outreach
     - Database/persistence
     - Supporting applications in production?
         - logging, monitoring, sumologic
         - Understanding infrastructure
         - Debugging techniques
-    - Innovation?
     - Strategy
-    - change management
-    
+        - Decision making 
+        - Change management
 
+    - People Management
+        - Interviewing, hiring and onboarding?
+        - Driving Performance
+        - Coaching
+        - Motivating and Inspiring    
 
+# Possible Duplicates
+- Is coaching same as growing people?
+- Is time management and prioritisation same as self direction
 
 
 
@@ -43,6 +52,7 @@
 - OECD
 - Medium
 - Patreon
+- CGMA (Leadership skills)
 
 
 ## Criteria

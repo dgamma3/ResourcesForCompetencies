@@ -16,6 +16,7 @@ Things like
 Resources
 - Watch [Techniques for Debugging Hard Problems - Gaynor](https://www.youtube.com/watch?v=ij99SGGEX34)
 - Read and Experiment with [Perf Tooling Today](http://www.perf-tooling.today/)
+- Read [Los Techies - 31 days of refactoring](https://lostechies.com/seanchambers/2009/08/31/31-days-of-refactoring-series-complete/)
 
 ## Level 1
 

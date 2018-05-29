@@ -24,6 +24,7 @@ Example Behaviours and Skills
 - Sets clear self-development goals
 - Seeks clarity on objectives, ensuring a good understanding of expectations
 - Takes responsibility for own personal development plan
+- Successfully incorporates feedback into future behaviour
 
 ### Resources
 - Watch [Leveling Up - Taking your engineering & operations role to the next level](https://www.youtube.com/watch?v=lgxEmiMJVq4) 
@@ -39,8 +40,10 @@ Example Behaviours and Skills
 - Actively shares knowledge among peers or offers advice to less experienced colleagues.
 - Self-assesses against competency framework for current position to identify learning needs.
 - Effectively transfers acquired knowledge and expertise.
+- Proactively seeks feedback to gauge and monitor progress and updates development plan to facilitate continuous self-improvement
 - Demonstrates initiative in professional self development.
 - Recognises achievements
+
 
 Example Tasks Perfomed
 
@@ -67,7 +70,7 @@ Example Behaviours and Skills
 ### What it looks like
 
 Example Behaviours and Skills
-- Creates teams with complementary strengths and promotes the expectation that they will learn from one another.
+- Creates teams with complementary strengths and promotes the expectation that they will learn from one another and will provide each other constructive feedback.
 - Identifies and plans learning, targeted to specific developmental needs in current position.
 - Encourages others to take on new responsibilities in order to support professional development.
 - Gives feedback that is constructive and precise based on facts and behavioural patterns observed, and gives individualised suggestions for improvement.
@@ -84,5 +87,6 @@ Example Behaviours and Skills
 - Develops a common understanding and is transparent about staff potential to take over new responsibilities.
 - Sets an example for staff development in the Organisation.
 - Encourages others to develop their people through development dialogues and action plans.
+- Champions the recruitment, development and retention of high-potential and high-performing individuals; make time available for coaching, mentoring and feedback
 
 ### Resources
