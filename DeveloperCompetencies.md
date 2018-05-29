@@ -45,18 +45,19 @@
 
 ### Secondary Competencies
 
+- [Accessibility](Competencies/Accessibility.md)
 - [Coaching](Competencies/Coaching.md)
 - [Leadership](Competencies/Leadership.md)
 - [Leading Technical Discussions](Competencies/Leading-Technical-Discussion.md)
 - [Product Thinking](Competencies/Product-Thinking.md)
 - [Stakeholder Engagement and Management](Competencies/Stakeholder-Engagement-and-Management.md)
-- [Accessibility](Competencies/Accessibility.md)
 
 
 ## Senior Developer
 
 ### Primary Competencies
 
+- [Accessibility](Competencies/Accessibility.md)
 - [Agile Practices and Methodologies](Competencies/Agile.md)
 - [Architecture](Competencies/Architecture.md)
 - [Cloud](Competencies/Cloud.md)
@@ -71,7 +72,6 @@
 - [Stakeholder Engagement and Management](Competencies/Stakeholder-Engagement-and-Management.md)
 - [Testing Approaches](Competencies/Testing-Approaches.md)
 - [Time Management and Prioritisation](Competencies/Time-Management-&-Prioritisation.md)
-- [Accessibility](Competencies/Accessibility.md)
 
 
 ### Secondary Competencies
@@ -82,6 +82,7 @@
 
 ### Primary Competencies
 
+- [Accessibility](Competencies/Accessibility.md)
 - [Agile Practices and Methodologies](Competencies/Agile.md)
 - [Architecture](Competencies/Architecture.md)
 - [Cloud](Competencies/Cloud.md)
@@ -97,4 +98,10 @@
 - [Stakeholder Engagement and Management](Competencies/Stakeholder-Engagement-and-Management.md)
 - [Testing Approaches](Competencies/Testing-Approaches.md)
 - [Time Management and Prioritisation](Competencies/Time-Management-&-Prioritisation.md)
-- [Accessibility](Competencies/Accessibility.md)
+
+
+## Analytics Branch Competencies
+- [Storytelling](Competencies/Analytics-Storytelling.md)
+- [Business Knowledge](Competencies/Analytics-Business-Knowledge.md)
+- [Analytical Application](Competencies/Analytics-Analytical-Application.md)
+- [Tools and Techniques](Competencies/Analytics-Tools-And-Techniques.md)

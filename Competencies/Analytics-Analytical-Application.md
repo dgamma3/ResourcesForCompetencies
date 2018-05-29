@@ -1,4 +1,4 @@
-# Competency Name
+# Analytics - Analytical Application
 
 Things like
 

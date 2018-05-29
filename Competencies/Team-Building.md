@@ -49,7 +49,6 @@ Things like
 - Recruits and retains people from diverse backgrounds and ensure resources are available to help them succeed in the organisation
 - Facilitates teams to develop new ideas, more powerful than any original individual ideas 
 - Eliminates low-value activities within the department
-- Effectively manages global teams and adapts style to accommodate cultural differences 
 - Encourages cross-functional and cross-boundary working and resolves conflict of interest
 - Harness the collective energy of the team to achieve business success
 - Creates opportunities for teams to network internally to share knowledge and best practice

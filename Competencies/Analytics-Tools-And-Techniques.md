@@ -1,4 +1,4 @@
-# Competency Name
+# Analytics - Tools and Techniques
 
 Things like
 
