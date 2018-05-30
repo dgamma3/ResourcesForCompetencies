@@ -7,7 +7,7 @@
 - [Communication](Competencies/Communication.md)
 - [Primary Language](Competencies/Primary-Language.md)
 - [Self-Direction](Competencies/Self-direction.md)
-- [Time Management and Prioritisation](Competencies/Time-Management-&-Prioritisation.md)
+
 
 ## Junior Developer
 
@@ -20,7 +20,6 @@
 - [Self-Direction](Competencies/Self-direction.md)
 - [Software Development Lifecycle](Competencies/Software-Development-Lifecycle.md)
 - [Testing Approaches](Competencies/Testing-Approaches.md)
-- [Time Management and Prioritisation](Competencies/Time-Management-&-Prioritisation.md)
 
 ### Secondary Competencies
 
@@ -41,7 +40,6 @@
 - [Self-Direction](Competencies/Self-direction.md)
 - [Software Development Lifecycle](Competencies/Software-Development-Lifecycle.md)
 - [Testing Approaches](Competencies/Testing-Approaches.md)
-- [Time Management and Prioritisation](Competencies/Time-Management-&-Prioritisation.md)
 
 ### Secondary Competencies
 
@@ -71,7 +69,6 @@
 - [Software Development Lifecycle](Competencies/Software-Development-Lifecycle.md)
 - [Stakeholder Engagement and Management](Competencies/Stakeholder-Engagement-and-Management.md)
 - [Testing Approaches](Competencies/Testing-Approaches.md)
-- [Time Management and Prioritisation](Competencies/Time-Management-&-Prioritisation.md)
 
 
 ### Secondary Competencies
@@ -97,7 +94,6 @@
 - [Software Development Lifecycle](Competencies/Software-Development-Lifecycle.md)
 - [Stakeholder Engagement and Management](Competencies/Stakeholder-Engagement-and-Management.md)
 - [Testing Approaches](Competencies/Testing-Approaches.md)
-- [Time Management and Prioritisation](Competencies/Time-Management-&-Prioritisation.md)
 
 
 ## Analytics Branch Competencies
