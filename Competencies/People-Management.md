@@ -55,6 +55,8 @@ Resources
 
 ### What it looks like
 
+ - Analyzes and improves upon interview and onboarding practices.
+
 ### Resources
 
 ## Level 5

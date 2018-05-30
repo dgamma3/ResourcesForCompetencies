@@ -50,6 +50,7 @@ Sample Resources
 - Coaching peers and/or direct reports
 - Influencing beyond the team and immediately up
 - Engaging an audience on an issue, inspiring others to take ownership
+- Identifies and helps to resolve problems facing their team
 
 ### Resources
 - M@X
@@ -69,6 +70,9 @@ Sample Resources
 - Leading inititatives across the organisation
 - Thought leadership inside and outside the org
 - Inspire and grow great new leaders
+- Coordinates large & complex projects, including with outside partners. 
+- Leads by example and inspires others.
+- Leads complex initiatives with long-term, strategic value.
 
 ### Resources
 - M@X 303

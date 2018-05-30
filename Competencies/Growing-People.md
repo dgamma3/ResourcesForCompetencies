@@ -12,8 +12,6 @@ Resources
 - Watch [Erika Carlson - 10 Lessons for Growing Junior Developers](https://www.youtube.com/watch?v=6YQsdjfny1Q) [35:28]
 - Watch [Eric Hodel - Lessons in Mentorship](https://www.youtube.com/watch?v=2uzvH2uR3-I) [26:26]
 
-
-
 ## Level 1
 
 ### What it looks like
