@@ -24,10 +24,10 @@ Example Behaviours and Skills
 - Provides informal ad-hoc advice and support
 - Sounding board
 
-
 Example Tasks Performed
 - Onboarding buddy
-- Pair
+- Pairing
+
 
 ### Resources
 
@@ -35,11 +35,19 @@ Example Tasks Performed
 
 ### What it looks like
 
+Example Behaviours and Skills
+
+Example Tasks Performed
+
 ### Resources
 
 ## Level 3
 
 ### What it looks like
+
+Example Behaviours and Skills
+
+Example Tasks Performed
 
 ### Resources
 
@@ -47,11 +55,18 @@ Example Tasks Performed
 
 ### What it looks like
 
+Example Behaviours and Skills
+
+Example Tasks Performed
+
 ### Resources
 
 ## Level 5
 
 ### What it looks like
 
+Example Behaviours and Skills
+
+Example Tasks Performed
 
 ### Resources

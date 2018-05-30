@@ -16,4 +16,5 @@
 
 ## Secondary Competencies
 
-- [Data Literacy](Competencies/Data-Literacy.md)
+- [Analytics - Storytelling](Competencies/Analytics-Storytelling.md)
+- [Analytics - Business Knowledge](Competencies/Analytics-Business-Knowledge.md)

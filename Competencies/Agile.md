@@ -23,10 +23,13 @@ Resources
 - Watch [Agile Revisited](https://www.youtube.com/watch?v=pcLbkmvqfiY)
 - Read [User Story Mapping](https://jpattonassociates.com/user-story-mapping/)
 
-
 ## Level 1
 
 ### What it looks like
+
+Example Behaviours and Skills
+
+Example Tasks Performed
 
 ### Resources
 
@@ -34,11 +37,19 @@ Resources
 
 ### What it looks like
 
+Example Behaviours and Skills
+
+Example Tasks Performed
+
 ### Resources
 
 ## Level 3
 
 ### What it looks like
+
+Example Behaviours and Skills
+
+Example Tasks Performed
 
 ### Resources
 
@@ -46,10 +57,18 @@ Resources
 
 ### What it looks like
 
+Example Behaviours and Skills
+
+Example Tasks Performed
+
 ### Resources
 
 ## Level 5
 
 ### What it looks like
+
+Example Behaviours and Skills
+
+Example Tasks Performed
 
 ### Resources

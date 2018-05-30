@@ -22,10 +22,13 @@ Resources
  - Experiment with [WAVE](https://wave.webaim.org/)
  - Attend [Vision Australia - Web accessibility techniques and testing](https://www.visionaustralia.org/services/digital-access/training/web-accessibility-techniques) Training
 
-
 ## Level 1
 
 ### What it looks like
+
+Example Behaviours and Skills
+
+Example Tasks Performed
 
 ### Resources
 
@@ -33,11 +36,19 @@ Resources
 
 ### What it looks like
 
+Example Behaviours and Skills
+
+Example Tasks Performed
+
 ### Resources
 
 ## Level 3
 
 ### What it looks like
+
+Example Behaviours and Skills
+
+Example Tasks Performed
 
 ### Resources
 
@@ -45,10 +56,18 @@ Resources
 
 ### What it looks like
 
+Example Behaviours and Skills
+
+Example Tasks Performed
+
 ### Resources
 
 ## Level 5
 
 ### What it looks like
+
+Example Behaviours and Skills
+
+Example Tasks Performed
 
 ### Resources
