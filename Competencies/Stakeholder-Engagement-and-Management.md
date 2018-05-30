@@ -8,7 +8,7 @@
 - Demonstrates an enthusiastic and ‘can do attitude’ to all requests
 - Provides timely, accurate and personalised responses
 - Provides a polite and helpful first point of contact for stakeholders
- Learns from feedback to improve personal service to others
+- Learns from feedback to improve personal service to others
 
 ### Resources
 

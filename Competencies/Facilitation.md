@@ -26,35 +26,41 @@ Resources
 ## Level 1
 
 ### What it looks like
-Establishing a plan for a session using vanilla approaches for "standard" meetings in small groups.
+
+- Establishing a plan for a session using vanilla approaches for "standard" meetings in small groups.
 
 ### Resources
 
 ## Level 2
 
 ### What it looks like
-Effective timeboxing.
+
+- Effective timeboxing.
 
 ### Resources
 
 ## Level 3
 
 ### What it looks like
-Identify specific deficiencies that facilitation will address in advance of a session and being able to cater the activities help address them.
-Identifying group dynamics and catering the facilitation to suit.
+
+- Identify specific deficiencies that facilitation will address in advance of a session and being able to cater the activities help address them.
+- Identifying group dynamics and catering the facilitation to suit.
+
 ### Resources
 
 ## Level 4
 
 ### What it looks like
-Handling challenging groups where there is no buy-in.
-Handling large groups.
+
+- Handling challenging groups where there is no buy-in.
+- Handling large groups.
 
 ### Resources
 
 ## Level 5
 
 ### What it looks like
-Mentoring and coaching junior/other facilitators.
+
+- Mentoring and coaching junior/other facilitators.
 
 ### Resources
