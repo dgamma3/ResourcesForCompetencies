@@ -19,8 +19,6 @@ Things Like
 - Peer/Group programming
 - Infrastructure deployment frameworks
 
-- We need a testing item within in this skill
-
 ## Level 1
 
 ### What it looks like
