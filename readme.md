@@ -1,7 +1,7 @@
 # Competencies
 
 ## Disclaimer
-*This is very much a work in progress* - If you disagree with how I have assessed competency, assumed competencies for your role or anything else - feel free to raise a PR (or email me if you don't use Github).
+*This is very much a work in progress* - If you disagree with how we have assessed competency, assumed competencies for your role or anything else - feel free to raise a PR (or email me if you don't use Github).
 
 
 ## What is this?

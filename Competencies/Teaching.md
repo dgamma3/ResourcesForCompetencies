@@ -1,4 +1,4 @@
-# Education
+# Teaching
 
 - Arguably just communication. Wanting to highlight seeking out opportunities for improvement and providing the education mechanisms to achieve that.
 Things like

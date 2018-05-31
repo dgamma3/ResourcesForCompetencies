@@ -12,29 +12,24 @@ Things like
 - Technical Writing
 - Written Communication
 - Visual Communication
-
 - Understanding the needs of others
 - Clearly communicating messages
 - Adapting communication style based on audience
 - Uses range of communication methods
 - Awareness of personal impact
-
-Questions
-<!-- Does influencing go here as well as leadership /!-->
-
 - In Team Communication
 - Out of team communication
 
 Resources
 
-### General
+General
 - Read [Communication Skills Ultimate Guide](https://www.makingbusinessmatter.co.uk/communication-skills-ultimate-guide/)
 - Watch [Pluralsight - Visual Communication: Creating Engaging and Effective Technical Diagrams](https://app.pluralsight.com/library/courses/visual-communication-technical-diagrams/table-of-contents)
 - Read [The Back of the Napkin: Solving Problems and Selling Ideas with Pictures - Roam](https://www.amazon.com/Back-Napkin-Expanded-Problems-Pictures/dp/1591842697)
 - Read [Visual Mojo - Express Edition - Cazaly](https://www.amazon.com/Visual-Mojo-Express-Lynne-Cazaly/dp/0987462911)
 - Take Writing at Xero
 
-### Presentation Skills
+Presentation Skills
 
 - Read [Awesome - Speaking](https://github.com/matteofigus/awesome-speaking)
 - Go to Toastmasters

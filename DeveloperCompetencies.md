@@ -74,6 +74,7 @@
 ### Secondary Competencies
 
 - [Product Thinking](Competencies/Product-Thinking.md)
+- [Teaching](Competencies/Teaching.md)
 
 ## Lead Developer
 
@@ -94,6 +95,10 @@
 - [Software Development Lifecycle](Competencies/Software-Development-Lifecycle.md)
 - [Stakeholder Engagement and Management](Competencies/Stakeholder-Engagement-and-Management.md)
 - [Testing Approaches](Competencies/Testing-Approaches.md)
+
+### Secondary Competencies
+
+- [Teaching](Competencies/Teaching.md)
 
 
 ## Analytics Branch Competencies
