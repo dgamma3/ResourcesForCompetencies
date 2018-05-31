@@ -1,4 +1,5 @@
 # Secure Coding and Application Security
+![Draft](../Images/head-brains.png) Draft  
 
 Things like
 - OWASP

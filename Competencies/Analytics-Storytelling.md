@@ -1,4 +1,5 @@
 # Analytics - Storytelling
+![Ready](../Images/rocket.png) Ready for Use  
 
 Develops expertise in sharing insights through written or verbal communication and visual design, and through dashboards and reports.	
 

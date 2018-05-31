@@ -1,4 +1,5 @@
 # Agile Practices and Methodologies
+![Experimental](../Images/test-lab-tubes.png)  Experimental
 
 Things like
 - Kaizen

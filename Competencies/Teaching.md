@@ -1,4 +1,5 @@
-# Teaching  ![Draft](../Images/head-brains.png) Draft  
+# Teaching 
+![Draft](../Images/head-brains.png) Draft  
 
 - Arguably just communication. Wanting to highlight seeking out opportunities for improvement and providing the education mechanisms to achieve that.
 Things like

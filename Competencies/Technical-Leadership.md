@@ -1,4 +1,5 @@
 # Technical Leadership
+![Draft](../Images/head-brains.png) Draft  
 
 - Is this just leadership?
 

@@ -1,5 +1,5 @@
 # Analytics - Business Knowledge
-
+![Ready](../Images/rocket.png) Ready for Use  
 
 Turning business problems into questions that can be answered with data, problem-solving stakeholder needs.
 

@@ -1,4 +1,5 @@
 # Analytics - Analytical Application
+![Ready](../Images/rocket.png) Ready for Use  
 
 Develops expertise in common analytical approaches, such as statistical analysis, charting, networks, model building. Systematic and rigorous application of these.
 

@@ -1,4 +1,5 @@
 # Self Direction
+![Experimental](../Images/test-lab-tubes.png)  Experimental
 
 Things like..
 - Goal setting, focus on outcomes

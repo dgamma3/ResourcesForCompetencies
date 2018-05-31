@@ -1,5 +1,9 @@
 # Competency Name
 
+![Ready](../Images/rocket.png) Ready for Use  
+![Experimental](../Images/test-lab-tubes.png)  Experimental
+![Draft](../Images/head-brains.png) Draft  
+
 Things like
 
 Resources

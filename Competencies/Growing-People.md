@@ -1,4 +1,5 @@
-# Growing People
+# Growing People 
+![Ready](../Images/rocket.png) Ready for Use  
 
 Things like..
 - Coaching (see Coaching)

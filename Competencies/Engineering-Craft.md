@@ -1,4 +1,5 @@
 # Engineering Craft
+![Ready](../Images/rocket.png) Ready for Use  
 
 Things like
 - Clean code

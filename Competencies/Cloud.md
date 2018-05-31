@@ -1,4 +1,5 @@
 # Cloud
+![Draft](../Images/head-brains.png) Draft  
 
 Things like
 - Cloud architecture patterns for resiliency etc - some crossover here with Architecture

@@ -1,4 +1,5 @@
 # Architecture
+![Ready](../Images/rocket.png) Ready for Use  
 
 The design and communication of high-level structures to enable and guide the design and development of software solutions that meet current and future business needs. 
 

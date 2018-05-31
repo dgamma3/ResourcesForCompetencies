@@ -1,4 +1,5 @@
 # Product Thinking
+![Draft](../Images/head-brains.png) Draft  
 
 things like..
 - Understanding customer needs

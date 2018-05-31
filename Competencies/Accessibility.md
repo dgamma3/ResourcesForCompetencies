@@ -1,4 +1,5 @@
 # Accessibility 
+![Draft](../Images/head-brains.png) Draft  
 
 Things Like
  - Areas of accessibility that are important in web development and how to go about testing them

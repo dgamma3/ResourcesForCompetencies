@@ -1,4 +1,5 @@
 # Security - Infrastructure
+![Ready](../Images/rocket.png) Ready for Use  
 
 The selection, design, justification, implementation and operation of controls and strategies to maintain the security and confidentiality of applications and practices.
 

@@ -1,4 +1,5 @@
 # Communication
+![Ready](../Images/rocket.png) Ready for Use  
 
 The ability to communicate meaningful information and remain open minded to others. 
 
