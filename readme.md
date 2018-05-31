@@ -5,16 +5,16 @@
 
 ## Statuses of Competencies
 
-### Draft  ![Draft](Images/head-brains.png)
+### ![Draft](Images/head-brains.png) Draft  
 - May or may not actually be a competency. May later be identified as a subset of another competency or an intersection of other competencies.
 - Don't use for career discussions at this point.
 
-### Experimental ![Experimental](Images/test-lab-tubes.png)
+### ![Experimental](Images/test-lab-tubes.png)  Experimental
 - May or may not actually be a competency. May later be identified as a subset of another competency or an intersection of other competencies.
 - May have some resources, behaviours, skills and tasks identified.
 - May be used for career discussions and trialling.
 
-### Ready for Use  ![Ready](Images/rocket.png)
+### ![Ready](Images/rocket.png) Ready for Use  
 - Has been identified as a competency.
 - Has resources, behaviours, skills and tasks identified.
 - Can be used for career discussions.
