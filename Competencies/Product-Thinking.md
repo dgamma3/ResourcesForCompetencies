@@ -6,11 +6,18 @@ things like..
 - Understanding what business success looks like
 - UX/Discovery
 - Design?
+- Domain Driven Design
 
 Resources
-- [User Story Mapping: Discover the Whole Story, Build the Right Product - Patton](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909)
-- [User Stories Applied: For Agile Software Development - Cohn](https://www.amazon.com/User-Stories-Applied-Software-Development/dp/0321205685)
-- [Specification by Example: How Successful Teams Deliver the Right Software - Adzic](https://www.amazon.com/Specification-Example-Successful-Deliver-Software/dp/1617290084)
+- Read [User Story Mapping: Discover the Whole Story, Build the Right Product - Patton](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909)
+- Read [User Stories Applied: For Agile Software Development - Cohn](https://www.amazon.com/User-Stories-Applied-Software-Development/dp/0321205685)
+- Read [Specification by Example: How Successful Teams Deliver the Right Software - Adzic](https://www.amazon.com/Specification-Example-Successful-Deliver-Software/dp/1617290084)
+- Read [Domain-Driven Design - Evans](https://www.amazon.com.au/Domain-Driven-Design-Eric-Evans/dp/0321125215)
+- Read [Implementing Domain-Driven Design - Vernon](https://www.amazon.com.au/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
+- Read [Patterns, Principles and Practices of Domain-driven Design - Millett](https://www.amazon.com.au/Patterns-Principles-Practices-Domain-driven-Design/dp/1118714709)
+- Watch [Domain-Driven Design Fundamentals](https://app.pluralsight.com/library/courses/domain-driven-design-fundamentals/)
+- Watch [Domain-Driven Design in Practice](https://app.pluralsight.com/library/courses/domain-driven-design-in-practice)
+- Read [Awesome Domain Driven Design](https://github.com/heynickc/awesome-ddd)
 
 ## Level 1
 
