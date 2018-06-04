@@ -2,7 +2,8 @@
 
 ## Primary Competencies
 
-- ![Experimental](Images/test-lab-tubes.png) [Agile Practices and Methodologies](Competencies/Agile.md)
+
+- [Agile Practices and Methodologies](Competencies/Agile.md)
 - [Coaching](Competencies/Coaching.md)
 - [Communication](Competencies/Communication.md)
 - [Delivery](Competencies/Delivery.md)
