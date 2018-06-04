@@ -13,7 +13,7 @@
 
 ### Primary Competencies
 
-- [Agile Practices and Methodologies](Competencies/Agile.md)
+- ![Experimental](../Images/test-lab-tubes.png) [Agile Practices and Methodologies](Competencies/Agile.md)
 - [Communication](Competencies/Communication.md)
 - [Engineering Craft](Competencies/Engineering-Craft.md)
 - [Primary Language](Competencies/Primary-Language.md)
@@ -31,7 +31,7 @@
 
 ### Primary Competencies
 
-- [Agile Practices and Methodologies](Competencies/Agile.md)
+- ![Experimental](../Images/test-lab-tubes.png) [Agile Practices and Methodologies](Competencies/Agile.md)
 - [Architecture](Competencies/Architecture.md)
 - [Cloud](Competencies/Cloud.md)
 - [Communication](Competencies/Communication.md)
@@ -43,7 +43,7 @@
 
 ### Secondary Competencies
 
-- [Accessibility](Competencies/Accessibility.md)
+- ![Draft](../Images/head-brains.png) [Accessibility](Competencies/Accessibility.md)
 - [Coaching](Competencies/Coaching.md)
 - [Leadership](Competencies/Leadership.md)
 - [Leading Technical Discussions](Competencies/Leading-Technical-Discussion.md)
@@ -55,8 +55,8 @@
 
 ### Primary Competencies
 
-- [Accessibility](Competencies/Accessibility.md)
-- [Agile Practices and Methodologies](Competencies/Agile.md)
+- ![Draft](../Images/head-brains.png) [Accessibility](Competencies/Accessibility.md)
+- ![Experimental](../Images/test-lab-tubes.png) [Agile Practices and Methodologies](Competencies/Agile.md)
 - [Architecture](Competencies/Architecture.md)
 - [Cloud](Competencies/Cloud.md)
 - [Coaching](Competencies/Coaching.md)
@@ -80,8 +80,8 @@
 
 ### Primary Competencies
 
-- [Accessibility](Competencies/Accessibility.md)
-- [Agile Practices and Methodologies](Competencies/Agile.md)
+- ![Draft](../Images/head-brains.png) [Accessibility](Competencies/Accessibility.md) 
+- ![Experimental](../Images/test-lab-tubes.png) [Agile Practices and Methodologies](Competencies/Agile.md)
 - [Architecture](Competencies/Architecture.md)
 - [Cloud](Competencies/Cloud.md)
 - [Coaching](Competencies/Coaching.md)
