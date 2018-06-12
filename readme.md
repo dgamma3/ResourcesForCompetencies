@@ -12,6 +12,17 @@
 ## What is a Competency?
 Competency is the ability to do something successfully or efficiently (Chambers dictionary)
 
+## Assessing Competency Level
+When assessing competency at a level you need to consider the 5 Cs..
+
+- Conscious: having devoted intentional effort to this endeavour,
+- Comfortable: without being overly stretched,
+- Continuous: for a reasonable period of time,
+- Consistent: reliably and evenly,
+- Competency: meeting the criteria.
+
+Overall, if it is not clear that an person is at a given milestone, they are at the previous milestone.
+
 ## Roles
 
 - [Developer](DeveloperCompetencies.md)

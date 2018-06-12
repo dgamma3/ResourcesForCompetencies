@@ -24,6 +24,8 @@ Things like
 - Proactively listens to, considers and embraces diverse ideas and styles
 - Interacts effectively with all people and participates in teams and groups and cooperate with others
 - Applies an understanding of available people and uses them effectively
+- Defines meeting structure and cadence that meets team needs
+- Advocates for improved D&I, and proposes ideas to help
 
 ### Resources
 - Watch [Kjell Ljøstad - How to build and be a part of a highly efficient team](https://vimeo.com/131748093)  [43:35]

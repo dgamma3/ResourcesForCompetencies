@@ -15,6 +15,8 @@ Resources
 
 ## Level 1
 
+Identify personal strengths and weaknesses	
+
 ### What it looks like
 
 Example Behaviours and Skills
@@ -25,11 +27,18 @@ Example Behaviours and Skills
 - Takes responsibility for own personal development plan
 - Successfully incorporates feedback into future behaviour
 
+Example Tasks Performed
+- Looked for learning opportunities to make improvement
+- Created and maintained a personal development plan
+- Acted as a buddy to someone new
+
 ### Resources
 - Watch [Leveling Up - Taking your engineering & operations role to the next level](https://www.youtube.com/watch?v=lgxEmiMJVq4) 
 - Read [Kate Matsudaira's Being Awesome at your job](http://katemats.com/being-awesome-at-your-job/)
 
 ## Level 2
+
+Create an environment that encourages career conversations	
 
 ### What it looks like
 
@@ -43,28 +52,38 @@ Example Behaviours and Skills
 - Demonstrates initiative in professional self development.
 - Recognises achievements
 
-
 Example Tasks Perfomed
-
+- Actively participates in Xero-In's 
+- Able to provide constructive feedback and responds positively to feedback received
+- Promoted and utilised career development tools
 
 ### Resources
 - [Mindtools Quiz - How well do you develop your people](https://www.mindtools.com/community/pages/article/team-development.php)
 
 ## Level 3
 
+Inspires a small group of people and actively encourages them to do the best work of their lives	
+
 ### What it looks like
 
 Example Behaviours and Skills
 - Discusses paths, and creates plans for personal and professional growth
-- Helps others learn from experience and development initiatives. Recommends readings, trainings and other resources.
+- Helps others learn from experience and development initiatives. Recommends readings, training and other resources.
 - Continually acquires and applies new knowledge and learning to improve job performance.
 - Provides constructive feedback to others.
+
+Example Tasks Perfomed
+- Xero-In's are held on a regular basis with goals and development plans actively being worked on
+- Actively participated in knowledge sharing
+- Assessed potential and performance of team members
 
 ### Resources
 - [Kate Heddleston - Criticism and Ineffective Feedback](https://kateheddleston.com/blog/criticism-and-ineffective-feedback)
 - [Phin Barnes - 23 Tools to Make Your Feedback Meaningful](http://firstround.com/review/23-Tools-to-Make-Feedback-Meaningful/)
 
 ## Level 4
+
+Manages interactions and processes between groups, promoting best practices and setting a positive example	
 
 ### What it looks like
 
@@ -77,6 +96,8 @@ Example Behaviours and Skills
 ### Resources
 
 ## Level 5
+
+Supports the development of a signficant part of the org, and widely viewed as a trusted advisor	
 
 ### What it looks like
 
