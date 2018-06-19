@@ -2,11 +2,12 @@
 
 ## Primary Competencies 
 
-- [People Management](Competencies/People-Management.md)
-- [Delivery](Competencies/Delivery.md)
+- [Coaching](Competencies/Coaching.md)
 - [Communication](Competencies/Communication.md)
+- [Delivery](Competencies/Delivery.md)
 - [Growing People](Competencies/Growing-People.md)
 - [Leadership](Competencies/Leadership.md)
+- [People Management](Competencies/People-Management.md)
 
 ## Secondary Competencies
 

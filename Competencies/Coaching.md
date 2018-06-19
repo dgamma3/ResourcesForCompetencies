@@ -8,6 +8,7 @@ Things like
 - Active listening (See communication)
 - Powerful questioning
 - Motivating style
+- Empathizing
 
 
 Resources
@@ -26,6 +27,7 @@ Resources
 Example Behaviours and Skills
 - Provides informal ad-hoc advice and support
 - Sounding board
+- Can be fully trusted to keep a secret
 
 Example Tasks Performed
 - Onboarding buddy

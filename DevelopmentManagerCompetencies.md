@@ -3,6 +3,7 @@
 ## Primary Competencies 
 
 - [Architecture](Competencies/Architecture.md)
+- [Coaching](Competencies/Coaching.md)
 - [Communication](Competencies/Communication.md)
 - [Delivery](Competencies/Delivery.md)
 - [Growing People](Competencies/Growing-People.md)

@@ -5,7 +5,6 @@
         - Analytical thinking?
         - Creative thinking
         - Innovation?
-    
     - adaptability
     - resilience, perserverance, patience, persistence
     - Collaboration/team orientation
@@ -22,7 +21,6 @@
     - Strategy
         - Decision making 
         - Change management
-
     - People Management
         - Interviewing, hiring and onboarding?
         - Driving Performance
@@ -100,3 +98,6 @@ Read
 - [Facilitation Toolkit](http://learningforsustainability.net/facilitation/)
 - [Facilitation Tools](https://seedsforchange.org.uk/tools.pdf)
 - [eXtreme Project Management: Using Leadership, Principles, and Tools to Deliver Value in the Face of Volatility - DeCarlo](https://www.amazon.com/eXtreme-Project-Management-Leadership-Principles/dp/0787974099)
+- http://katrinatester.blogspot.com/2017/04/test-coaching-competency-framework.html
+- https://www.gov.uk/government/publications/lead-test-engineer-skills-they-need/lead-test-engineer-skills-they-need
+- https://coachfederation.org/core-competencies

@@ -23,7 +23,7 @@ Resources
 - Watch [Agile Product Ownership in a Nutshell](https://youtu.be/502ILHjX9EE)
 - Watch [Agile Revisited](https://www.youtube.com/watch?v=pcLbkmvqfiY)
 - Read [User Story Mapping](https://jpattonassociates.com/user-story-mapping/)
-- Watch [What really is Agile Coaching](https://www.youtube.com/watch?v=J5zbl24vVuI)
+- Watch [What really is Agile Coaching?](https://www.youtube.com/watch?v=J5zbl24vVuI)
 
 ## Level 1
 
