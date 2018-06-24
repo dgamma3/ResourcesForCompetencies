@@ -14,7 +14,7 @@ Sample Resources
 - Read [Leadership Ultimate Guide](https://www.makingbusinessmatter.co.uk/blog/leadership-skills-ultimate-guide/)
 - Read [Influencing Ultimate Guide](https://www.makingbusinessmatter.co.uk/influencing-skills-ultimate-guide/)
 - Read [How great leaders inspire action - Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
-- Read [Drive: The surprising truth about what motivates us - Pink](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805)
+- Read [Drive: The surprising truth about what motivates us - Pink](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805) and [Watch](https://www.youtube.com/watch?v=u6XAPnuFjJc)
 - Read [Tribes - We Need You to Lead Us - Godin](https://www.amazon.com/By-Seth-Godin-Tribes/dp/B00N4FWY66)
 - Read [Turn the Ship Around!: A True Story of Turning Followers into Leaders - Marquet](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404)
 - Read [Built to Last: Successful Habits of Visionary Companies - Collins and Porras](https://www.amazon.com/Built-Last-Successful-Visionary-Essentials/dp/0060516402)
