@@ -32,7 +32,9 @@ Example Behaviours and Skills
 - Manages time and resources effectively, monitoring progress and making adjustments, when necessary.
 
 ### Resources
+- Take [MindTools - How Good Is Your Goal Setting Quiz?](https://www.mindtools.com/community/pages/article/goal-setting-quiz.php)
 - Watch [MindTools - Personal Goal Setting](https://www.mindtools.com/community/pages/videos/goal-setting-transcript.php)
+- Watch [MindTools - SMART Goals](https://www.mindtools.com/community/pages/article/smart-goals.php)
 - Read [Apprenticeship Patterns - Hoover](https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382)
 - Watch [Pluralsight - Time Management for Technical Professionals](https://app.pluralsight.com/library/courses/time-management-technical-professionals/table-of-contents)
 - Read [MindTools - Taking Initiative](https://www.mindtools.com/pages/article/initiative.htm)

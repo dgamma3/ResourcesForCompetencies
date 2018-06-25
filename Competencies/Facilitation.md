@@ -19,7 +19,7 @@ Resources
 - Read and Experiment with [Fun Retrospectives](http://www.funretrospectives.com/)
 - Read [Role of a Facilitator](https://www.mindtools.com/pages/article/RoleofAFacilitator.htm)
 - Read [The Field of Facilitation](https://thefieldoffacilitation.wordpress.com/)
-- Read [The role of a facilitator](https://www.mindtools.com/community/pages/article/RoleofAFacilitator.php)
+- Read [MindTools - The role of a facilitator](https://www.mindtools.com/community/pages/article/RoleofAFacilitator.php)
 - Read [A Coach’s Guide to Facilitation](https://drive.google.com/file/d/0By6IHn_q3F2WNnVVZ3lkX3NDem8/view)
 - Read [Agile Retrospectives - Derby](https://www.amazon.com/Agile-Retrospectives-Making-Teams-Great/dp/0977616649)
 - Read and Experiment with [Bikablo - Visual Facilitation](http://www.marcelvanhove.com/freetraining)

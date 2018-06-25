@@ -58,7 +58,7 @@ Example Tasks Perfomed
 - Promoted and utilised career development tools
 
 ### Resources
-- [Mindtools Quiz - How well do you develop your people](https://www.mindtools.com/community/pages/article/team-development.php)
+- Take [Mindtools - How well do you develop your people quiz?](https://www.mindtools.com/community/pages/article/team-development.php)
 
 ## Level 3
 
@@ -94,6 +94,7 @@ Example Behaviours and Skills
 - Gives feedback that is constructive and precise based on facts and behavioural patterns observed, and gives individualised suggestions for improvement.
 
 ### Resources
+- Take [MindTools - How good is your feedback quiz?](https://www.mindtools.com/community/pages/article/feedback-quiz.php)
 
 ## Level 5
 
