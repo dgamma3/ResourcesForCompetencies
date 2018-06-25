@@ -9,6 +9,7 @@ Things like..
 - Decision Making
 - Time management & Prioritisation skills 
 - Knowing When to ask for help
+- Result-focus/outcome focus
 
 
 Resources
@@ -28,14 +29,20 @@ Example Behaviours and Skills
 - Defines ambitious, but realistic, personal goals.
 - Works while meeting quality and performance standards.
 - Promptly and efficiently completes work assignments
+- Manages time and resources effectively, monitoring progress and making adjustments, when necessary.
 
 ### Resources
+- Watch [MindTools - Personal Goal Setting](https://www.mindtools.com/community/pages/videos/goal-setting-transcript.php)
 - Read [Apprenticeship Patterns - Hoover](https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382)
 - Watch [Pluralsight - Time Management for Technical Professionals](https://app.pluralsight.com/library/courses/time-management-technical-professionals/table-of-contents)
+- Read [MindTools - Taking Initiative](https://www.mindtools.com/pages/article/initiative.htm)
 
 ## Level 2
 
 ### What it looks like
+
+- Consistently maintains focus and perseveres in the face of obstacles, inspiring others to the same
+- Quickly identifies issues in own work and is able togenerate creative and practical solutions.
 
 ### Resources
 - Read [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact - Lau](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107)
@@ -43,8 +50,10 @@ Example Behaviours and Skills
 ## Level 3
 
 ### What it looks like
+- Adapts to changes and ambiguity appropriately.
 
 ### Resources
+- Read [Linchpin: Are You Indispensable? - Godin](https://www.amazon.com/Linchpin-Are-Indispensable-Seth-Godin/dp/1591844096)
 
 
 ## Level 4

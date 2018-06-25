@@ -9,15 +9,14 @@
     - resilience, perserverance, patience, persistence
     - Collaboration/team orientation
     - Customer focus
-    - result focus -> self direction?
     - planning and organising
     - business awareness?
-    - Evangelism/outreach
     - Database/persistence
     - Supporting applications in production?
         - logging, monitoring, sumologic
         - Understanding infrastructure
         - Debugging techniques
+    - Innovation
     - Strategy
         - Decision making 
         - Change management
@@ -25,7 +24,8 @@
         - Interviewing, hiring and onboarding?
         - Driving Performance
         - Coaching
-        - Motivating and Inspiring    
+        - Motivating and Inspiring 
+    - Working with ambiguity/uncertainty   
 
 # Possible Duplicates
 - Is coaching same as growing people?

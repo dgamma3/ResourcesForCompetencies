@@ -3,8 +3,8 @@
 
 Things like..
 - Holding good 121s
-- Hiring and Interviewing (?)
-- Goal setting (? - or is this growth)
+- Hiring and Interviewing
+- Goal setting
 - Performance management - managing high performers, people who are struggling, behaviour etc
 - [Relates to coaching](Coaching.md)
 
@@ -46,7 +46,7 @@ Resources
 
 - Motivates and inspires others to perform to their best, recognising and valuing their work and encouraging them to learn and reflect
 - Sets clear direction and expectations and enables others to interpret competing priorities
-- Manages performance issues effectively to avoid adverse impact on team morale and performance
+- Manages performance issues fairly, constructively and effectively to avoid adverse impact on team morale and performance
 - Promotes a positive team culture that respects diversity and deals with barriers to inclusion
 - Provides staff with opportunities to learn and develop
 
