@@ -43,6 +43,7 @@ Things like
 
 ### Resources
 - Read [The Five Dysfunctions of a Team: A Leadership Fable - Lencioni](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756)
+- Read [Deep Dive Study Guide: The Five Dysfunctions of a Team (Summary, Notes, and Tons of Additional Resources)](https://usmanconsulting.com/deep-dive-study-guide-the-five-dysfunctions-of-a-team-summary-notes-and-tons-of-additional-resources/)
 - Read [Conflict Resolution Ultimate Guide](https://www.makingbusinessmatter.co.uk/conflict-resolution-skills-ultimate/)
 
 
