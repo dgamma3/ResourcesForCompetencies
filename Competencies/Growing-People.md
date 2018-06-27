@@ -15,7 +15,7 @@ Resources
 
 ## Level 1
 
-Identify personal strengths and weaknesses	
+Growing self - Identify personal strengths and weaknesses	
 
 ### What it looks like
 
@@ -38,7 +38,7 @@ Example Tasks Performed
 
 ## Level 2
 
-Create an environment that encourages career conversations	
+Create an environment that encourages career conversations and learning opportunities
 
 ### What it looks like
 

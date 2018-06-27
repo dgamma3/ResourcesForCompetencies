@@ -12,13 +12,21 @@ Things like
 
 ## Level 1
 
+Collaborates as a member of a team
+
 ### What it looks like
+- Clearly understands the goals of the team as well as the roles and responsibilities of each team member
+- Shares information with team members about actions or proposed changes that will affect them
+- Pitches in and works with others, in unusual circumstances or when necessary to get thejob done
+- Willingly accepts and quickly adapts to an assigned role as a member of a large or small team
 
 ### Resources
 - Watch [Pluralsight - Working on a Team](https://app.pluralsight.com/library/courses/working-on-a-team/table-of-contents)
 
 
 ## Level 2
+
+Values others and solicits input
 
 ### What it looks like
 - Proactively listens to, considers and embraces diverse ideas and styles
@@ -35,11 +43,15 @@ Things like
 
 ## Level 3
 
+Encourages others
+
 ### What it looks like
 - Encourages an environment in which people value diversity either in recruitment, team formation and/or in developing plans and strategies
 - Brings team members into discussions so that they can contribute their ideas, are involved in setting team objectives and feel engaged on issues that affect them
 - Identifies and manages the teams’ strengths and weaknesses and resolve issues to achieve shared goals; promote trust, openness and respect for others; guide and motivate team
 - Anticipates additional requirements and uses available people appropriately
+- Demonstrates own commitment to important initiatives by actively contributing to the efforts of a team and by recognizing the contributions of other team members. 
+- Is quick to provide guidance and support to new team members/other teams to facilitate learning
 
 ### Resources
 - Read [The Five Dysfunctions of a Team: A Leadership Fable - Lencioni](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756)
@@ -48,6 +60,8 @@ Things like
 
 
 ## Level 4
+
+Works to build team commitment and spirit
 
 ### What it looks like
 - Recruits and retains people from diverse backgrounds and ensure resources are available to help them succeed in the organisation

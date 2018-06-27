@@ -26,10 +26,12 @@ Resources
 
 - Writes clean code and tests, iterating based on feedback
 - Participates in code reviews and technical design.
+- Uses source control
 
 ### Resources
 - Read [The Pragmatic Programmer: From Journeyman to Master - Hunt](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
 - Read [Code Complete 2 - McConnell](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
+- Practice on [Github Learning Lab](https://lab.github.com/)
 
 ## Level 2
 

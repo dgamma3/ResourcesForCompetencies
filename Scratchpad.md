@@ -16,13 +16,13 @@
         - logging, monitoring, sumologic
         - Understanding infrastructure
         - Debugging techniques
-    - Innovation
     - Strategy
         - Decision making 
         - Change management
+        - Innovation
     - People Management
         - Interviewing, hiring and onboarding?
-        - Driving Performance
+        - Performance management
         - Coaching
         - Motivating and Inspiring 
     - Working with ambiguity/uncertainty   
