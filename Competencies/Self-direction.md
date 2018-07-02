@@ -1,5 +1,5 @@
 # Self Direction
-![Experimental](../Images/test-lab-tubes.png)  Experimental
+![Ready](../Images/rocket.png) Ready for Use  
 
 Things like..
 - Goal setting, focus on outcomes
@@ -33,8 +33,8 @@ Example Behaviours and Skills
 - Take [MindTools - How Good Is Your Goal Setting Quiz?](https://www.mindtools.com/community/pages/article/goal-setting-quiz.php)
 - Watch [MindTools - Personal Goal Setting](https://www.mindtools.com/community/pages/videos/goal-setting-transcript.php)
 - Watch [MindTools - SMART Goals](https://www.mindtools.com/community/pages/article/smart-goals.php)
-- Read [Apprenticeship Patterns - Hoover](https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382)
 - Watch [Pluralsight - Time Management for Technical Professionals](https://app.pluralsight.com/library/courses/time-management-technical-professionals/table-of-contents)
+- Read [Apprenticeship Patterns - Hoover](https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382)
 - Read [MindTools - Taking Initiative](https://www.mindtools.com/pages/article/initiative.htm)
 
 ## Level 2
