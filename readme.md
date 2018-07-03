@@ -50,5 +50,16 @@ Overall, if it is not clear that an person is at a given milestone, they are at 
 - Has resources, behaviours, skills and tasks identified.
 - Can be used for career discussions.
 
+## How to get access to the resources
+
+### Pluralsight 
+
+Go [here](https://confluence.teamxero.com/display/PRODUCT/Pluralsight+subscriptions) and fill in the form.
+
+## Lynda
+
+Many Australian local libraries give full access to Lynda.com with a library card. 
+- Eastern Regional Libraries has access via this [page](https://www.yourlibrary.com.au/online-resources/).
+- Hawthorn Library (the nearest to the Melbourne Office) can be accessed via this [page](https://www.boroondara.vic.gov.au/libraries/library-collections/online-learning)
 
 Icons by [Vecteezy](https://www.vecteezy.com/) Licensed under [Attribution 3.0 Unported (CC BY 3.0)](https://creativecommons.org/licenses/by/3.0/deed.en_US)

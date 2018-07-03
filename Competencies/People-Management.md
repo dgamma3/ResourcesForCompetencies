@@ -17,7 +17,8 @@ Resources
 - Read [Awesome Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing)
 
 ### Holding good 121s
-- Watch  [Adrian Howard - How to Talk to Earthlings](https://www.youtube.com/watch?v=B1wgGzO6SIg)
+- Watch [Adrian Howard - How to Talk to Earthlings](https://www.youtube.com/watch?v=B1wgGzO6SIg)
+- Watch [Lynda - Building Trust](https://www.lynda.com/Business-Skills-tutorials/Building-Trust/156547-2.html)
 
 ### OKRS
 - Read [Awesome OKRs](https://github.com/domenicosolazzo/awesome-okr)

@@ -9,6 +9,7 @@ Things like
 
 ## Resources
 - Read [Team Building Ultimate Guide](https://www.makingbusinessmatter.co.uk/team-building-skills-ultimate-guide/)
+- Watch [Lynda - Building Trust](https://www.lynda.com/Business-Skills-tutorials/Building-Trust/156547-2.html)
 
 ## Level 1
 

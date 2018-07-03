@@ -102,3 +102,4 @@ Read
 - https://www.gov.uk/government/publications/lead-test-engineer-skills-they-need/lead-test-engineer-skills-they-need
 - https://coachfederation.org/core-competencies
 - https://www.thriveyard.com/17-tips-on-how-to-take-initiative-at-work/
+- https://www.hr.unsw.edu.au/services/peopleandculture/selfdevelopment.html
