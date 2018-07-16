@@ -15,6 +15,7 @@ Resources
 - Read [The Manager's Path - Fournier](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 - Read [The Leadership One Minute Manager - Blanchard and Johnson](https://www.amazon.com/New-One-Minute-Manager/dp/0062367544)
 - Read [Awesome Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing)
+- Watch [Lynda - Performance Based Hiring](https://www.lynda.com/Business-Skills-tutorials/Performance-Based-Hiring/429635-2.html)
 
 ### Holding good 121s
 - Watch [Adrian Howard - How to Talk to Earthlings](https://www.youtube.com/watch?v=B1wgGzO6SIg)

@@ -32,6 +32,7 @@ Overall, if it is not clear that an person is at a given milestone, they are at 
 - [Quality Engineer](QualityEngineerCompetencies.md)
 - [Agile Team Facilitator](ATFCompetencies.md)
 - [Infrastructure Engineer](InfrastructureEngineeringCompetencies.md)
+- [Product Architect](ArchitectCompetencies.md)
 
 
 ## Statuses of Competencies
@@ -56,7 +57,7 @@ Overall, if it is not clear that an person is at a given milestone, they are at 
 
 Go [here](https://confluence.teamxero.com/display/PRODUCT/Pluralsight+subscriptions) and fill in the form.
 
-## Lynda
+### Lynda
 
 Many Australian local libraries give full access to Lynda.com with a library card. 
 - Eastern Regional Libraries has access via this [page](https://www.yourlibrary.com.au/online-resources/).

@@ -51,6 +51,9 @@
 - Medium
 - Patreon
 - CGMA (Leadership skills)
+- https://www.nrc-cnrc.gc.ca/eng/careers/behavioural_competencies/mg_dictionary.html
+- https://instituteofcoaching.org/
+- https://internationalcoachingcommunity.com/core-coaching-competencies/
 
 
 ## Criteria
