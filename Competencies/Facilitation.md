@@ -14,6 +14,8 @@ Resources
 - Read and Experiment with [HyperIsland Toolbox](http://toolbox.hyperisland.com/)
 - Read and Experiment with the [Atlassian Playbook](https://www.atlassian.com/team-playbook)
 - Read and Experiment with [Retrospectives](http://retrospectivewiki.org/index.php?title=Retrospective_Plans)
+- Read and Experiment with [Fun Retrospectives](http://www.funretrospectives.com/)
+- Read and Experiment with [Spotify Retro Kit](https://spotifylabscom.files.wordpress.com/2017/12/retro-kit3.pdf)
 - Read and Experiment with [Session Lab - Library of Facilitation Resources](https://www.sessionlab.com/library)
 - Read and Experiment with [Retromat](https://plans-for-retrospectives.com) and [Book](https://plans-for-retrospectives.com/en/print)
 - Read and Experiment with [Fun Retrospectives](http://www.funretrospectives.com/)

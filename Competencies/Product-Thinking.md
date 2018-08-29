@@ -18,6 +18,7 @@ Resources
 - Watch [Domain-Driven Design Fundamentals](https://app.pluralsight.com/library/courses/domain-driven-design-fundamentals/)
 - Watch [Domain-Driven Design in Practice](https://app.pluralsight.com/library/courses/domain-driven-design-in-practice)
 - Read [Awesome Domain Driven Design](https://github.com/heynickc/awesome-ddd)
+- Watch [Lynda - Business Foundations](https://www.lynda.com/Business-Skills-tutorials/Business-Fundamentals/365727-2.html)
 
 ## Level 1
 

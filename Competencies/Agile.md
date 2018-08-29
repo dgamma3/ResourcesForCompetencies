@@ -17,13 +17,14 @@ Things like
 - Pays heed to Agile values and principles rather than process and mechanics
 
 Resources
-- Read [Modern Agile](http://modernagile.org/) and watch [Modern Agile Show](https://www.youtube.com/channel/UCMwCSEyUk59V8IQADpdn5PA/feed)
-- Read [Heart of Agile](http://heartofagile.com/)
-- Read [Awesome Agile Software Development](https://github.com/lorabv/awesome-agile-software-development)
 - Watch [Agile Product Ownership in a Nutshell](https://youtu.be/502ILHjX9EE)
 - Watch [Agile Revisited](https://www.youtube.com/watch?v=pcLbkmvqfiY)
-- Read [User Story Mapping](https://jpattonassociates.com/user-story-mapping/)
 - Watch [What really is Agile Coaching?](https://www.youtube.com/watch?v=J5zbl24vVuI)
+- Read [Modern Agile](http://modernagile.org/) and watch [Modern Agile Show](https://www.youtube.com/channel/UCMwCSEyUk59V8IQADpdn5PA/feed)
+- Read [Awesome Agile Software Development](https://github.com/lorabv/awesome-agile-software-development)
+- Read [Heart of Agile](http://heartofagile.com/)
+- Read [User Story Mapping](https://jpattonassociates.com/user-story-mapping/)
+- Read [How You Slice It - Patton](https://jpattonassociates.com/wp-content/uploads/2015/01/JPA_how_you_slice_it.pdf)
 
 ## Level 1
 
