@@ -23,6 +23,7 @@ Resources
 - Watch [Agile Metrics - Beyond Burn Up/Down's onto Metric Driven Coaching - Magennis](https://vimeo.com/144824390)
 - Watch [Velocity is not the goal - Norton](https://vimeo.com/97505655)
 - Watch [Mine Social Metrics from Source Code Repositories - Tornhill](https://vimeo.com/144670188)
+- Watch [The Development Metrics You Should Use (but Don’t) - Swetel](https://www.youtube.com/watch?v=cW3yM-K2M08)
 
 ## Level 1
 

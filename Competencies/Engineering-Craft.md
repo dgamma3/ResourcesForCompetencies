@@ -45,6 +45,7 @@ Resources
 ### Resources
 - Read [Refactoring: Improving the Design of Existing Code - Fowler](https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672)
 - Read [Refactoring to Patterns - Kerievsky](https://www.amazon.com/Refactoring-Patterns-Joshua-Kerievsky/dp/0321213351)
+- Read and Experiment with [Refactoring Guru](https://refactoring.guru/refactoring/catalog) or [Refactoring.com](https://refactoring.com/)
 - Read [Clean Code: A Handbook of Agile Software Craftsmanship - Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 - Read [Working Effectively with Legacy Code - Feathers](https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052)
 
