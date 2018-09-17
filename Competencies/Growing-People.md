@@ -59,6 +59,7 @@ Example Tasks Perfomed
 
 ### Resources
 - Take [Mindtools - How well do you develop your people quiz?](https://www.mindtools.com/community/pages/article/team-development.php)
+- Take Feedback @ Xero (AU) or Deliverying Effective Feedback (NZ)
 
 ## Level 3
 

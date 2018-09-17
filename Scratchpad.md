@@ -1,6 +1,7 @@
 # Scratch Pad
 
 - Are these competencies?
+    - Learning
     - Problem solving
         - Analytical thinking?
         - Creative thinking

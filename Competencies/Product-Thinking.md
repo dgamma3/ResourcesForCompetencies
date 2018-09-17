@@ -15,16 +15,16 @@ Resources
 - Read [Domain-Driven Design - Evans](https://www.amazon.com.au/Domain-Driven-Design-Eric-Evans/dp/0321125215)
 - Read [Implementing Domain-Driven Design - Vernon](https://www.amazon.com.au/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)
 - Read [Patterns, Principles and Practices of Domain-driven Design - Millett](https://www.amazon.com.au/Patterns-Principles-Practices-Domain-driven-Design/dp/1118714709)
-- Watch [Domain-Driven Design Fundamentals](https://app.pluralsight.com/library/courses/domain-driven-design-fundamentals/)
-- Watch [Domain-Driven Design in Practice](https://app.pluralsight.com/library/courses/domain-driven-design-in-practice)
+- Watch [Pluralsight - Domain-Driven Design Fundamentals](https://app.pluralsight.com/library/courses/domain-driven-design-fundamentals/)
+- Watch [Pluralsight - Domain-Driven Design in Practice](https://app.pluralsight.com/library/courses/domain-driven-design-in-practice)
 - Read [Awesome Domain Driven Design](https://github.com/heynickc/awesome-ddd)
-- Watch [Lynda - Business Foundations](https://www.lynda.com/Business-Skills-tutorials/Business-Fundamentals/365727-2.html)
 
 ## Level 1
 
 ### What it looks like
 
 ### Resources
+- Watch [Lynda - Business Foundations](https://www.lynda.com/Business-Skills-tutorials/Business-Fundamentals/365727-2.html)
 
 ## Level 2
 

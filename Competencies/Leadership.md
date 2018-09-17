@@ -7,6 +7,8 @@ Things like..
 - Emotional Intelligence
 - Self awareness
 - Evangelism/outreach
+- Diplomacy
+- Leading through Change
 
 Sample Resources
 
@@ -15,15 +17,14 @@ Sample Resources
 - Read [Influencing Ultimate Guide](https://www.makingbusinessmatter.co.uk/influencing-skills-ultimate-guide/)
 - Read [How great leaders inspire action - Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 - Read [Drive: The surprising truth about what motivates us - Pink](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805) and [Watch](https://www.youtube.com/watch?v=u6XAPnuFjJc)
-- Read [Tribes - We Need You to Lead Us - Godin](https://www.amazon.com/By-Seth-Godin-Tribes/dp/B00N4FWY66)
 - Read [Turn the Ship Around!: A True Story of Turning Followers into Leaders - Marquet](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404)
 - Read [Built to Last: Successful Habits of Visionary Companies - Collins and Porras](https://www.amazon.com/Built-Last-Successful-Visionary-Essentials/dp/0060516402)
 - Read [Change Your Thinking - Edelman](https://www.amazon.com/Change-Your-Thinking-Overcome-Depression/dp/1600940528/)
 - Read [Working with Emotional Intelligence - Goleman](https://www.amazon.com/Working-Emotional-Intelligence-Daniel-Goleman/dp/0553378589)
-- Read [Management 3.0: Leading Agile Developers, Developing Agile Leaders](https://www.amazon.com/Management-3-0-Developers-Developing-Addison-Wesley/dp/0321712471)
 - Watch [The Puzzle of Motivation - Pink](http://www.ted.com/talks/dan_pink_on_motivation?language=en)
 - Watch [Why Leaders Eat Last - Sinek](https://vimeo.com/79899786)
 - Watch [Listen, Learn... then lead - McChrystal](https://www.ted.com/talks/stanley_mcchrystal)
+- Watch [Lynda - Leading with Emotional Intelligence](https://www.lynda.com/Business-Skills-tutorials/Leading-Emotional-Intelligence/124087-2.html)
 
 ## Level 1
 
@@ -42,8 +43,10 @@ Sample Resources
 - Collaborate to achieve team goals
 
 ### Resources
+
 - Emerging Leaders M@X
 - Watch [Pluralsight - Introduction to Emotional Intelligence](https://app.pluralsight.com/library/courses/emotional-intelligence-introduction/table-of-contents) [2:08:00]
+- Read [Tribes - We Need You to Lead Us - Godin](https://www.amazon.com/By-Seth-Godin-Tribes/dp/B00N4FWY66)
 
 ## Level 3
 
@@ -54,7 +57,9 @@ Sample Resources
 - Identifies and helps to resolve problems facing their team
 
 ### Resources
+
 - M@X
+- Read [Management 3.0: Leading Agile Developers, Developing Agile Leaders](https://www.amazon.com/Management-3-0-Developers-Developing-Addison-Wesley/dp/0321712471)
 
 ## Level 4
 
