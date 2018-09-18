@@ -49,6 +49,9 @@ Example Tasks Performed
 
 ### Resources
 
+- Watch [Lynda - Building Trust](https://www.lynda.com/Business-Skills-tutorials/Building-Trust/156547-2.html)
+- Watch [Lynda - Effective Listening](https://www.lynda.com/Business-Skills-tutorials/Effective-Listening/176760-2.html)
+
 ## Level 3
 
 ### What it looks like

@@ -11,6 +11,7 @@ Things like
 - Value stream mapping
 - Project Management
 - Systems thinking, theory of constraints
+- Change Management
 
 Resources
 - Read [Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency - DeMarco](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698)
