@@ -1,17 +1,17 @@
 # Primary Language
-![Draft](../Images/head-brains.png) Draft  
+![Draft](../Images/head-brains.png) Draft
 
-- Should this be a per language path? 
-    - C#
-    - Swift
-    - Kotlin
-    - Javascript
-    - Typescript
-    - Python
+## Resources
+### General
+- To be added...
 
-Resources
-- [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance)
-- [Good Reads ♥ #fedlove](https://confluence.teamxero.com/pages/viewpage.action?pageId=84476802)
+### Language Specific
+- [C#](Primary-Language-CSharp.md)
+- [Swift](Primary-Language-Swift.md)
+- Kotlin
+- [Javascript](Primary-Language-FED.md)
+- [Typescript](Primary-Language-FED.md)
+- Python
 
 ## Level 1
 
@@ -19,8 +19,6 @@ Resources
 Understanding of a language's syntax.
 
 Familiarity of the language's development environment. e.g. IDE, other tooling, operating system
-
-### Resources
 
 ## Level 2
 
@@ -38,8 +36,6 @@ Proficiency in intermediate to advanced toolings for a language. Examples:
 
 Understanding of more nuanced aspects of a language and being able to articulate the trade off between different approaches. Examples:
 - Swift: what's the difference between `struct` and a `class`? Where would you use either?
-
-### Resources
 
 ## Level 3
 
@@ -61,8 +57,6 @@ Proficient in advanced language features of a language
 - in Swift, closures, reference vs value types, ownership model
 - in C#, reflection
 
-### Resources
-
 ## Level 4
 
 ### What it looks like
@@ -72,13 +66,9 @@ Being able to contribute to a major update/rewrite of a complex application
 
 Can teach a language well
 
-### Resources
-
 ## Level 5
 
 ### What it looks like
 Being able to lead a major update/rewrite of a complex application
 
 Able to contribute meaningful features back to the language itself (where applicable)
-
-### Resources

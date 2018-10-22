@@ -1,0 +1,1 @@
+- [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance)
