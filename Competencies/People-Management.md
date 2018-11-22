@@ -7,6 +7,11 @@ Things like..
 - Goal setting
 - Performance management - managing high performers, people who are struggling, behaviour etc
 - [Relates to coaching](Coaching.md)
+- Delegation
+- Recognizing achievements
+- Fairness and consistency
+- Motivating people
+
 
 Resources
 
@@ -15,6 +20,9 @@ Resources
 - Read [The Manager's Path - Fournier](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 - Read [Awesome Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing)
 
+### Motivation
+- Watch [The Puzzle of Motivation - Pink](http://www.ted.com/talks/dan_pink_on_motivation?language=en)
+- Read [Drive: The surprising truth about what motivates us - Pink](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805) and [Watch](https://www.youtube.com/watch?v=u6XAPnuFjJc)
 
 ### Holding good 121s
 - Watch [Adrian Howard - How to Talk to Earthlings](https://www.youtube.com/watch?v=B1wgGzO6SIg)
