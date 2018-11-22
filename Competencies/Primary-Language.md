@@ -11,7 +11,8 @@
 - Kotlin
 - [Javascript](Primary-Language-FED.md)
 - [Typescript](Primary-Language-FED.md)
-- Python
+- [Python](Primary-Language-Python.md)
+- [SQL](Primary-Language-SQL.md)
 
 ## Level 1
 

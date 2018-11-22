@@ -21,6 +21,7 @@ Things like
  - Read [Building Evolutionary Architectures: Support Constant Change - Ford, Parsons and Kua](https://www.amazon.com/Building-Evolutionary-Architectures-Support-Constant/dp/1491986360)
  - Watch [Evolutionary Architecture - ThoughtWorks Talks Tech](https://www.youtube.com/watch?v=7e6Ww8b2hzQ)
  - Read [Building Microservices: Designing Fine-Grained Systems - Newman](https://www.amazon.com.au/Building-Microservices-Sam-Newman/dp/1491950358)
+ - Watch [Pluralsight - Scaling Up](https://app.pluralsight.com/courses/scaling-up-lindvall)
 
 ## Level 1
 
