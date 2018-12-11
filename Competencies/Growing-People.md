@@ -1,4 +1,4 @@
-# Growing People 
+# Growing People
 ![Ready](../Images/rocket.png) Ready for Use  
 
 Things like..
@@ -8,14 +8,14 @@ Things like..
 - OKRS
 
 
-Resources 
+Resources
 - Read [Giving Feedback - HBR](https://www.amazon.com/Giving-Feedback-Solutions-Everyday-Challenges/dp/142210348X)
 - Watch [Erika Carlson - 10 Lessons for Growing Junior Developers](https://www.youtube.com/watch?v=6YQsdjfny1Q)
 - Watch [Eric Hodel - Lessons in Mentorship](https://www.youtube.com/watch?v=2uzvH2uR3-I)
 
 ## Level 1
 
-Growing self - Identify personal strengths and weaknesses	
+Growing self - Identify personal strengths and weaknesses
 
 ### What it looks like
 
@@ -33,7 +33,7 @@ Example Tasks Performed
 - Acted as a buddy to someone new
 
 ### Resources
-- Watch [Leveling Up - Taking your engineering & operations role to the next level](https://www.youtube.com/watch?v=lgxEmiMJVq4) 
+- Watch [Leveling Up - Taking your engineering & operations role to the next level](https://www.youtube.com/watch?v=lgxEmiMJVq4)
 - Read [Kate Matsudaira's Being Awesome at your job](http://katemats.com/being-awesome-at-your-job/)
 
 ## Level 2
@@ -52,10 +52,11 @@ Example Behaviours and Skills
 - Demonstrates initiative in professional self development.
 - Recognises achievements
 
-Example Tasks Perfomed
-- Actively participates in Xero-In's 
+Example Tasks Performed
+- Actively participates in Xero-In's
 - Able to provide constructive feedback and responds positively to feedback received
 - Promoted and utilised career development tools
+- Attend the latest "Feedback at Xero" training (there is a new course for this so this might involve re-taking the training)
 
 ### Resources
 - Take [Mindtools - How well do you develop your people quiz?](https://www.mindtools.com/community/pages/article/team-development.php)
@@ -63,7 +64,7 @@ Example Tasks Perfomed
 
 ## Level 3
 
-Inspires a small group of people and actively encourages them to do the best work of their lives	
+Inspires a small group of people and actively encourages them to do the best work of their lives
 
 ### What it looks like
 
@@ -84,7 +85,7 @@ Example Tasks Perfomed
 
 ## Level 4
 
-Manages interactions and processes between groups, promoting best practices and setting a positive example	
+Manages interactions and processes between groups, promoting best practices and setting a positive example
 
 ### What it looks like
 
@@ -99,7 +100,7 @@ Example Behaviours and Skills
 
 ## Level 5
 
-Supports the development of a signficant part of the org, and widely viewed as a trusted advisor	
+Supports the development of a signficant part of the org, and widely viewed as a trusted advisor
 
 ### What it looks like
 
