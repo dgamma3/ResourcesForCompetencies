@@ -31,6 +31,9 @@ Resources
 ### What it looks like
 
 Example Behaviours and Skills
+- Understanding why software teams use agile approaches and what the mindset actually means. i.e. How it can be beneficial for teams and the individuals therein (transparency, short feedback loops, working with the customer, etc)
+- Understanding of some of the basic tools used in Agile organisations: Scrum and Kanban. Not from a prescriptive approach, but understanding the terminology, the approaches that many teams take, and the reasoning behind those approaches
+- Understanding of historical software development - waterfall and the problems with that approach, understanding death-march projects
 
 Example Tasks Performed
 
@@ -41,6 +44,11 @@ Example Tasks Performed
 ### What it looks like
 
 Example Behaviours and Skills
+- Kaizen
+- Lean
+- Extreme Programming
+- Understanding of team stages, and the dynamics therein; able to use this in order to guide the team to become high performing
+- Good understanding of estimation techniques; cone of uncertainty factors, etc
 
 Example Tasks Performed
 
@@ -51,6 +59,12 @@ Example Tasks Performed
 ### What it looks like
 
 Example Behaviours and Skills
+- User Story Mapping
+- Design Sprints
+- Being able to use the right tool for each situation
+- Experiments and their role in high performing teams
+- Appropriate use of metrics and analytics to help support the team
+- Able to look at team situations from both a developer (Dev, QC, etc) and product owner and help guide both sides to create balance
 
 Example Tasks Performed
 
@@ -61,6 +75,8 @@ Example Tasks Performed
 ### What it looks like
 
 Example Behaviours and Skills
+- Value stream mapping
+- High level of influence amongst stakeholders from a team and delivery perspective - able to handle the "people" factors and how it correlates with the delivery factors
 
 Example Tasks Performed
 
