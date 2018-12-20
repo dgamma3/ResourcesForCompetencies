@@ -30,17 +30,27 @@ Resources
 
 ### What it looks like
 
+- Produce work as a part of a team environment
+
 ### Resources
 
 ## Level 2
 
 ### What it looks like
+- Understand prioritisation as a part of a team with limited resources.
+- Able to articulate delivery/investment (technical or other) trade-offs
+- Able to work to work within the constraints of the iron triangle and understand the implications of trade-offs
 
 ### Resources
 
 ## Level 3
 
 ### What it looks like
+- Have a toolkit for approaching estimates from a short, medium, and long-term perspective
+- Able to break down stories into approachable chunks for delivery
+- Able to work to a set of features and negotiate trade-offs of the iron triangle with Product
+- Able to support Product from a business perspective (this doesn’t mean just agreeing)
+- Good understanding of delivery metrics and how they are used to help the team identify how they can improve as a group
 
 ### Resources
 
@@ -48,6 +58,7 @@ Resources
 
 ### What it looks like
 - Understanding and recording a project's risks, and owning the mitigating actions.
+- Building relationships outside the immediate team (but in the same region) in order to understand the greater implications to the work their pod is engaging in (and being able to know which pod to talk to when needing to engage in knowledge/technical expertise)
 
 ### Resources
 - Read [Waltzing with Bears : Managing Risk on Software Projects - DeMarco and Lister](https://www.amazon.com/Waltzing-Bears-Managing-Software-Projects/dp/0932633609)
@@ -55,5 +66,8 @@ Resources
 ## Level 5
 
 ### What it looks like
+- Proactively negotiating with parties outside the team that might not be direct stakeholders in order to clarify dependent work, or establish a technical plan of action for how to accomplish a project 
+- Being able to articulate higher level trade-offs such as whether their team should even be engaging in a course of work if it is competing with, or holds a lower priority with, another program of work in the business
+- Building relationships outside the immediate team in different geographies in order to understand the greater implications to the work their pod is engaging in (and being able to know which pod to talk to when needing to engage in knowledge/technical expertise)
 
 ### Resources
