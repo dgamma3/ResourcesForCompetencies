@@ -44,6 +44,9 @@ Example Tasks Performed
 ### What it looks like
 
 Example Behaviours and Skills
+- Asks good questions
+- Uses active listening techniques
+- Understanding when to seek outside help for sensitive or challenging conversations"
 
 Example Tasks Performed
 
@@ -57,6 +60,7 @@ Example Tasks Performed
 ### What it looks like
 
 Example Behaviours and Skills
+- Clear distinction between coaching and mentoring; able to recognise where one might be needed over the other and apply as appropriate to the situation
 
 Example Tasks Performed
 
@@ -67,6 +71,8 @@ Example Tasks Performed
 ### What it looks like
 
 Example Behaviours and Skills
+- Coaching peers one to one
+- Actively participating in coaching uplift in the organisation
 
 Example Tasks Performed
 
@@ -77,6 +83,8 @@ Example Tasks Performed
 ### What it looks like
 
 Example Behaviours and Skills
+- Coaching coaches in training situations (i.e. leading workshops around coaching to other coaches)
+- Literally writing books about coaching based on real experiences
 
 Example Tasks Performed
 
