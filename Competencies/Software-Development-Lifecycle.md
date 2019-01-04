@@ -20,6 +20,7 @@ Resources
 - Read [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation - Humble and Farley](https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
 - Read [Awesome Continuous Delivery](https://github.com/ciandcd/awesome-ciandcd)
 - Watch [Adopting Continuous Delivery - Humble](https://vimeo.com/68320415)
+- Read [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations - Forsgren, Humble and Kim](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 
 ## Level 1
 

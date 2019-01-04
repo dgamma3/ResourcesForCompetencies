@@ -18,7 +18,7 @@ Resources
 - Read [Coaching for Performance: GROWing Human Potential and Purpose - The Principles and Practice of Coaching and Leadership - Whitmore](https://www.amazon.com/Coaching-Performance-Potential-Principles-Leadership/dp/185788535X)
 - Read [The Complete Guide to Coaching at Work - Zeus and Skiffington](https://www.amazon.com/Complete-Guide-Coaching-Work/dp/0074708422)
 - Read [The Coach's Casebook: Mastering the Twelve Traits That Trap Us - Watts & Morgan](https://www.amazon.com/gp/product/0957587449)
-- Read [Mind Tools Resources - Coaching and Mentoring](https://xchange.teamxero.com/2017/01/08/mind-tools-monthly-coaching-and-mentoring/)]
+- Read [Mind Tools Resources - Coaching and Mentoring](https://xchange.teamxero.com/2017/01/08/mind-tools-monthly-coaching-and-mentoring/)
 - Watch [Lynda - Setting Team and Employee Goals](https://www.lynda.com/Business-Skills-tutorials/How-Set-Team-Employee-Goals/456353-2.html)
 - Watch [Lynda - Coaching and Developing Employees](https://www.lynda.com/Business-Skills-tutorials/Coaching-Developing-Employees/115863-2.html)
 - Watch [Lynda - Coaching for Results](https://www.lynda.com/Leadership-Management-tutorials/Coaching-Results/592488-2.html)

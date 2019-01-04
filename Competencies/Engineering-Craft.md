@@ -58,6 +58,7 @@ Resources
 - Ensures documents exist for all critical systems owned by team
 
 ### Resources
+- Read [Awesome Code Review](https://github.com/joho/awesome-code-review#readme)
 
 ## Level 4
 

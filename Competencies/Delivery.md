@@ -14,17 +14,11 @@ Things like
 - Change Management
 
 Resources
-- Read [Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency - DeMarco](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698)
 - Read [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win - Kim and Behr](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290)
 - Read [Lean Enterprise: How High Performance Organizations Innovate at Scale - O'Reilly, Humble, and Molesky](https://www.amazon.com/Lean-Enterprise-Performance-Organizations-Innovate/dp/1449368425)
-- Read [How to Measure Anything: Finding the Value of Intangibles in Business - Hubbard](https://www.amazon.com/How-Measure-Anything-Intangibles-Business/dp/1118539273)
 - Read [The Goal: A Process of Ongoing Improvement - Goldratt](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271951)
-- Read [The Mythical Man-Month: Essays on Software Engineering -  Brooks](https://www.amazon.com/Mythical-Man-Month-Essays-Software-Engineering/dp/0201006502)
-
-- Watch [Agile Metrics - Beyond Burn Up/Down's onto Metric Driven Coaching - Magennis](https://vimeo.com/144824390)
-- Watch [Velocity is not the goal - Norton](https://vimeo.com/97505655)
-- Watch [Mine Social Metrics from Source Code Repositories - Tornhill](https://vimeo.com/144670188)
-- Watch [The Development Metrics You Should Use (but Don’t) - Swetel](https://www.youtube.com/watch?v=cW3yM-K2M08)
+- Take [How good are your Project Management Skills](https://www.mindtools.com/community/pages/article/newPPM_60.php)
+- Read [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations - Forsgren, Humble and Kim](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339)
 
 ## Level 1
 
@@ -42,6 +36,8 @@ Resources
 - Able to work to work within the constraints of the iron triangle and understand the implications of trade-offs
 
 ### Resources
+- Read [Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency - DeMarco](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698)
+- Read [The Mythical Man-Month: Essays on Software Engineering -  Brooks](https://www.amazon.com/Mythical-Man-Month-Essays-Software-Engineering/dp/0201006502)
 
 ## Level 3
 
@@ -53,6 +49,11 @@ Resources
 - Good understanding of delivery metrics and how they are used to help the team identify how they can improve as a group
 
 ### Resources
+- Read [How to Measure Anything: Finding the Value of Intangibles in Business - Hubbard](https://www.amazon.com/How-Measure-Anything-Intangibles-Business/dp/1118539273)
+- Watch [Agile Metrics - Beyond Burn Up/Down's onto Metric Driven Coaching - Magennis](https://vimeo.com/144824390)
+- Watch [Velocity is not the goal - Norton](https://vimeo.com/97505655)
+- Watch [Mine Social Metrics from Source Code Repositories - Tornhill](https://vimeo.com/144670188)
+- Watch [The Development Metrics You Should Use (but Don’t) - Swetel](https://www.youtube.com/watch?v=cW3yM-K2M08)
 
 ## Level 4
 
