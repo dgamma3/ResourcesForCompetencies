@@ -10,10 +10,14 @@ Things like..
 - Decision Making
 - Time management & Prioritisation skills 
 - Result-focus/outcome focus
+- Strategic Planning
 
 Resources
 - Read [The Power of Habit: Why We Do What We Do in Life and Business - Duhigg](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X)
 - Read [What Got You Here Won't Get You There: How Successful People Become Even More Successful - Goldsmith](https://www.amazon.com/What-Got-Here-Wont-There/dp/1401301304)
+
+Strategic Thinking and Planning
+- Read [Sun Tzu's Art of War](http://classics.mit.edu/Tzu/artwar.html)
 
 
 ## Level 1
