@@ -1,4 +1,4 @@
-# Self Direction
+# Self Direction and Planning
 ![Ready](../Images/rocket.png) Ready for Use  
 
 Things like..

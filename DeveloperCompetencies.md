@@ -6,7 +6,7 @@
 
 - [Communication](Competencies/Communication.md)
 - [Primary Language](Competencies/Primary-Language.md)
-- [Self-Direction](Competencies/Self-direction.md)
+- [Self-Direction and Planning](Competencies/Self-direction.md)
 
 
 ## Junior Developer
@@ -17,7 +17,7 @@
 - [Communication](Competencies/Communication.md)
 - [Engineering Craft](Competencies/Engineering-Craft.md)
 - [Primary Language](Competencies/Primary-Language.md)
-- [Self-Direction](Competencies/Self-direction.md)
+- [Self-Direction and Planning](Competencies/Self-direction.md)
 - [Software Development Lifecycle](Competencies/Software-Development-Lifecycle.md)
 - [Testing Approaches](Competencies/Testing-Approaches.md)
 
@@ -37,7 +37,7 @@
 - [Communication](Competencies/Communication.md)
 - [Engineering Craft](Competencies/Engineering-Craft.md)
 - [Primary Language](Competencies/Primary-Language.md)
-- [Self-Direction](Competencies/Self-direction.md)
+- [Self-Direction and Planning](Competencies/Self-direction.md)
 - [Software Development Lifecycle](Competencies/Software-Development-Lifecycle.md)
 - [Testing Approaches](Competencies/Testing-Approaches.md)
 
@@ -65,7 +65,7 @@
 - [Leadership](Competencies/Leadership.md)
 - [Leading Technical Discussions](Competencies/Leading-Technical-Discussion.md)
 - [Primary Language](Competencies/Primary-Language.md)
-- [Self-Direction](Competencies/Self-direction.md)
+- [Self-Direction and Planning](Competencies/Self-direction.md)
 - [Software Development Lifecycle](Competencies/Software-Development-Lifecycle.md)
 - [Stakeholder Engagement and Management](Competencies/Stakeholder-Engagement-and-Management.md)
 - [Testing Approaches](Competencies/Testing-Approaches.md)
@@ -91,7 +91,7 @@
 - [Leading Technical Discussions](Competencies/Leading-Technical-Discussion.md)
 - [Primary Language](Competencies/Primary-Language.md)
 - [Product Thinking](Competencies/Product-Thinking.md)
-- [Self-Direction](Competencies/Self-direction.md)
+- [Self-Direction and Planning](Competencies/Self-direction.md)
 - [Software Development Lifecycle](Competencies/Software-Development-Lifecycle.md)
 - [Stakeholder Engagement and Management](Competencies/Stakeholder-Engagement-and-Management.md)
 - [Testing Approaches](Competencies/Testing-Approaches.md)
