@@ -16,6 +16,10 @@ Things Like
 - Databases/Caches
 - Web hosting/proxy
 
+## Resources
+- [Google SRE Book](https://landing.google.com/sre/sre-book/toc/)
+
+
 ## Level 1
 
 ### What it looks like

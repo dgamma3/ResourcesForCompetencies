@@ -10,7 +10,7 @@
 - [Facilitation](Competencies/Facilitation.md)
 - [Leadership](Competencies/Leadership.md)
 - [Product Thinking](Competencies/Product-Thinking.md)
-- [Self-Direction](Competencies/Self-direction.md)
+- [Self-Direction and Planning](Competencies/Self-direction.md)
 - [Stakeholder Engagement and Management](Competencies/Stakeholder-Engagement-and-Management.md)
 - [Teaching](Competencies/Teaching.md)
 - [Team Building](Competencies/Team-Building.md)
