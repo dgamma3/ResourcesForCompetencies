@@ -12,6 +12,8 @@ Resources
 - Read [Giving Feedback - HBR](https://www.amazon.com/Giving-Feedback-Solutions-Everyday-Challenges/dp/142210348X)
 - Watch [Erika Carlson - 10 Lessons for Growing Junior Developers](https://www.youtube.com/watch?v=6YQsdjfny1Q)
 - Watch [Eric Hodel - Lessons in Mentorship](https://www.youtube.com/watch?v=2uzvH2uR3-I)
+- Read [Radical Candor How to Get What You Want by Saying What You mean](https://amzn.to/2YpSNMX)
+- Read [Designing your life - Build the Perfect Career, Step by Step](https://bit.ly/2CGEn1T)
 
 ## Level 1
 
