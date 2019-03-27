@@ -18,6 +18,9 @@ Resources
 - Watch [Pluralsight - Domain-Driven Design Fundamentals](https://app.pluralsight.com/library/courses/domain-driven-design-fundamentals/)
 - Watch [Pluralsight - Domain-Driven Design in Practice](https://app.pluralsight.com/library/courses/domain-driven-design-in-practice)
 - Read [Awesome Domain Driven Design](https://github.com/heynickc/awesome-ddd)
+- Read [When coffee and kale compete -  Jobs to be done thinking](http://www.whencoffeeandkalecompete.com/)
+- Read [This is service design doing - Activities within research, ideation, prototyping, and facilitation](https://www.thisisservicedesigndoing.com/methods)
+- Read [Sprint - Design and test ideas in five days] (https://www.amazon.com/Sprint-Solve-Problems-Test-Ideas/dp/1442397683)
 
 ## Level 1
 
