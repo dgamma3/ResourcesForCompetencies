@@ -14,6 +14,7 @@ Sample Resources
 - Read [Open Guides to AWS](https://github.com/open-guides/og-aws)
 - Read [Amazon Web Services in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
 - Read [AWS Well-Architected Framework](https://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf)
+- Watch [Lynda - Amazon Web Services Essential Training](https://www.lynda.com/Amazon-Web-Services-tutorials/Welcome/569195/617940-4.html)
 
 ## Level 1
 
