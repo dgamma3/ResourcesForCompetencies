@@ -20,6 +20,8 @@ Resources
 - Read and Experiment with [Perf Tooling Today](http://www.perf-tooling.today/)
 - Read [Los Techies - 31 days of refactoring](https://lostechies.com/seanchambers/2009/08/31/31-days-of-refactoring-series-complete/)
 - Read [Pro Git - Chacon & Straub](https://git-scm.com/book/en/v2)
+- Watch [Understanding Git - Perrotta](https://www.youtube.com/watch?v=nHkLxts9Mu4)
+- Watch [Git From the Bits Up - Berglund](https://www.youtube.com/watch?v=MYP56QJpDr4)
 
 ## Level 1
 

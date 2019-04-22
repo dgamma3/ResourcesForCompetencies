@@ -18,6 +18,7 @@ Resources
 
 Strategic Thinking and Planning
 - Read [Sun Tzu's Art of War](http://classics.mit.edu/Tzu/artwar.html)
+- Watch [Lynda - Strategic Thinking](https://www.lynda.com/Leadership-Management-tutorials/Strategic-Thinking/630592-2.html)
 
 
 ## Level 1
@@ -74,6 +75,7 @@ Thinks and Plans ahead
 ### Resources
 - Read [Linchpin: Are You Indispensable? - Godin](https://www.amazon.com/Linchpin-Are-Indispensable-Seth-Godin/dp/1591844096)
 - Watch [Lynda - Improving Your Judgment](https://www.lynda.com/Business-Skills-tutorials/Improving-Your-Judgment/162446-2.html)
+- Watch [Lynda - Critical Thinking](https://www.lynda.com/Business-Skills-tutorials/Critical-Thinking/424116-2.html)
 
 ## Level 4
 

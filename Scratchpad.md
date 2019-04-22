@@ -32,6 +32,53 @@
 - Is coaching same as growing people?
 - Is time management and prioritisation same as self direction
 
+## Families
+Build
+- Accessibility.md
+- Architecture.md
+- Cloud.md
+- Engineering-Craft.md
+- Infrastructure-Development.md
+- Infrastructure-Engineering.md
+- Primary-Language.md
+- Secure-Coding.md
+- Security-Infrastructure.md
+- Product-Thinking.md
+- Software-Development-Lifecycle.md
+- Testing-Approaches.md
+
+Validate?
+
+Support?
+
+Lead
+- Coaching.md
+- Growing-People.md
+- Leadership.md
+- Leading-Technical-Discussion.md
+- People-Management.md
+- Technical-Leadership.md
+- Workforce Management
+
+Connect
+- Communication.md
+- Facilitation.md
+- Teaching.md
+- Team-Building.md
+- Stakeholder-Engagement-and-Management.md
+
+Delivery
+- Agile.md
+- Delivery.md
+- Self-direction.md
+
+
+Analyse
+- Analytics-Analytical-Application.md
+- Analytics-Business-Knowledge.md
+- Analytics-Storytelling.md
+- Analytics-Tools-And-Techniques.md
+
 
 
 ## Thoughts...

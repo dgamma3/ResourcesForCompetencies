@@ -28,6 +28,7 @@ Resources
 
 ### Resources
 - Watch [Lynda - Business Foundations](https://www.lynda.com/Business-Skills-tutorials/Business-Fundamentals/365727-2.html)
+- Watch [Lynda - Solving Business-Problems](https://www.lynda.com/Business-Skills-tutorials/Solving-Business-Problems/155342-2.html)
 
 ## Level 2
 
