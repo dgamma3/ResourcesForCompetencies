@@ -9,7 +9,8 @@ Things like
 - Powerful questioning
 - Motivating style
 - Empathizing
-
+- Giving feedback
+- Mentoring Techniques
 
 Resources
 - Take Coaching @ Xero
@@ -36,7 +37,6 @@ Example Tasks Performed
 - Onboarding buddy
 - Pairing
 
-
 ### Resources
 
 ## Level 2
@@ -46,9 +46,12 @@ Example Tasks Performed
 Example Behaviours and Skills
 - Asks good questions
 - Uses active listening techniques
-- Understanding when to seek outside help for sensitive or challenging conversations"
+- Understanding when to seek outside help for sensitive or challenging conversations
 
 Example Tasks Performed
+- Teching junior team members about techniques used
+- Being a mentor to a juinor team member
+- Create tasks for grads or junior team members to help them 
 
 ### Resources
 
@@ -60,18 +63,28 @@ Example Tasks Performed
 ### What it looks like
 
 Example Behaviours and Skills
-- Clear distinction between coaching and mentoring; able to recognise where one might be needed over the other and apply as appropriate to the situation
+- Understanding the difference between coaching and mentoring; able to recognise where one might be needed over the other and apply as appropriate to the situation
 
 Example Tasks Performed
+- Starts behaving as a coach rather than mentor in certain situations
+  - Asking open ended questions rather than giving instructions 
+    - i.e how would you do this?
+    - Can  you see what's wrong with this
+  - Gives coachee time to find solution on their own
+  - Gives hints rather than the solution
+- Create learning plans together with junior team members
 
 ### Resources
+
+- Watch [The Difference Between Training, Mentoring, and Coaching ( 2:55 )](https://www.youtube.com/watch?v=LtHKQAw6sI4)
+- Read [The Coaching Habit: Say Less, Ask More & Change the Way Your Lead Forever](https://www.amazon.com.au/Coaching-Habit-Less-Change-Forever/dp/0978440749)
 
 ## Level 4
 
 ### What it looks like
 
 Example Behaviours and Skills
-- Coaching peers one to one
+- Coaching peers one to one on a regular basis
 - Actively participating in coaching uplift in the organisation
 
 Example Tasks Performed
