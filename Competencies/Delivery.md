@@ -25,6 +25,9 @@ Resources
 ### What it looks like
 
 - Produce work as a part of a team environment
+- Understand the dependencies of work you do and the impact it has on others delivering.
+- To be able to own a piece of work in team value stream from start to end.Help other members to get things done on the team level ( proactive ).
+
 
 ### Resources
 
@@ -32,8 +35,12 @@ Resources
 
 ### What it looks like
 - Understand prioritisation as a part of a team with limited resources.
-- Able to articulate delivery/investment (technical or other) trade-offs
-- Able to work to work within the constraints of the iron triangle and understand the implications of trade-offs
+- Understand basic delivery metrics like lead time.
+- Ability to proactively identify impediments for a piece of work and communicate and resolve those with help of TL’s
+- Explore not one but a couple of approaches of delivering piece of work within constraints.
+- Able to break down stories into approachable chunks for delivery
+
+
 
 ### Resources
 - Read [Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency - DeMarco](https://www.amazon.com/Slack-Getting-Burnout-Busywork-Efficiency/dp/0767907698)
@@ -43,7 +50,6 @@ Resources
 
 ### What it looks like
 - Have a toolkit for approaching estimates from a short, medium, and long-term perspective
-- Able to break down stories into approachable chunks for delivery
 - Able to work to a set of features and negotiate trade-offs of the iron triangle with Product
 - Able to support Product from a business perspective (this doesn’t mean just agreeing)
 - Good understanding of delivery metrics and how they are used to help the team identify how they can improve as a group
