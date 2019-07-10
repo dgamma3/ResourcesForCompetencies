@@ -52,21 +52,49 @@ Good blogs to follow on the craft of software testing
 ## Level 1
 
 ### What it looks like
+-  Good understanding of testing and Quality aspects Such as
+  1. Checking vs testing
+  2. Functional testing vs Non functional testing
+  3. Automated tests vs Manual testing
+  4. Cost of a defect
+- Able of perform Unit testing independently
+- Able to perform Manual testing to develop the quality mindset
+- Able to Organise and Participate in Mob testing sessions
 
 ### Resources
 - [Testing for non-testers](http://katrinatester.blogspot.com.au/2015/11/testing-for-non-testers-pathway.html)
+https://www.guru99.com/functional-testing-vs-non-functional-testing.html
+https://www.guru99.com/manual-testing.html
+https://confluence.teamxero.com/display/QA/Exploratory+Testing+using+Heuristics 
 
 ## Level 2
 
 ### What it looks like
+- Able to Adopt Test Driven Development
+- Good understanding and implementation knowledge of all stages of test pyramid
+- Coding to Cross Functional requirements
+- Able to assess which test fits into which form of testing 
+- Able to performing exploratory testing
+- Develop a Shift quality left mindset
 
 ### Resources
+https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing
+https://martinfowler.com/bliki/TestPyramid.html
+https://www.bmc.com/blogs/what-is-shift-left-shift-left-testing-explained/
 
 ## Level 3
 
 ### What it looks like
+- Help to drive Test Driven Development in the team 
+- Able to analyse the suitability of a Testing Tool or a Testing framework
+- Able to guide a team to code to cross functional requirements
+- Able to create a test strategy for a project
+- Coding for testability
 
 ### Resources
+http://carfield.com.hk/document/software+engineering/testing/design_for_testability_PNSQC.pdf
+http://blog.gdinwiddie.com/2012/05/16/design-for-testability/
+https://www.guru99.com/test-driven-development.html
 
 ## Level 4
 
