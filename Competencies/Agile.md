@@ -44,7 +44,8 @@ Example Tasks Performed
 ### What it looks like
 
 Example Behaviours and Skills
-- Kaizen
+- Kaizen (Change)
+- User Story Mapping and Veritical slicing of stories
 - Lean
 - Extreme Programming
 - Understanding of team stages, and the dynamics therein; able to use this in order to guide the team to become high performing
@@ -53,13 +54,16 @@ Example Behaviours and Skills
 Example Tasks Performed
 
 ### Resources
+https://agileleanlife.com/kaizen-growth-mindset-continuous-improvement/
+https://plan.io/blog/user-story-mapping/
+https://blogs.adobe.com/agile/2013/09/27/splitting-stories-into-small-vertical-slices/
+https://en.wikipedia.org/wiki/Extreme_programming
 
 ## Level 3
 
 ### What it looks like
 
 Example Behaviours and Skills
-- User Story Mapping
 - Design Sprints
 - Being able to use the right tool for each situation
 - Experiments and their role in high performing teams
