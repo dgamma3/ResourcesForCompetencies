@@ -50,10 +50,12 @@ Things like
 ## Level 3
 
 ### What it looks like
+- Being able to communicate design decisions and the reasoning behind them
 - Owning / Producing Design documents
 - Technical Scoping of the design solution, alligning to current roadmap.
 - Generalisation of Problem set, to support further/wider roadmap decisions.
 - Project level implementation planning
+- Awareness of NFRs (Security, Scalability, Performance, Resilence etc) and considering these while doing application design 
 
 
 ### Resources
