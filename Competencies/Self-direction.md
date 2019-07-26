@@ -67,6 +67,7 @@ Works based on given tasks, but can address them in their own order
 - Read [The Pomodoro Technique: The Acclaimed Time Management System That Has Transformed How We Work - Cirillo](https://www.amazon.com/Pomodoro-Technique-Acclaimed-Management-Transformed/dp/1524760706)
 - Read [The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact - Lau](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107)
 - Watch [Lynda - Decision Making Strategies](https://www.lynda.com/Business-Skills-tutorials/Decision-Making-Fundamentals/186697-2.html)
+- Read[10 Powerful Ways to Master Self-Discipline](https://www.entrepreneur.com/article/287005)
 
 ## Level 3
 
