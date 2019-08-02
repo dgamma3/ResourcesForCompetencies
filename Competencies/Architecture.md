@@ -56,7 +56,7 @@ Things like
 - Project level implementation planning
 - Awareness of NFRs (Security, Scalability, Performance, Resilence etc) and considering these while doing application design 
 
-## Level 3
+## Level 4
 
 ### What it looks like
 - Generalisation of Problem set, to support further/wider roadmap decisions.
@@ -69,9 +69,6 @@ Things like
 - Document the system that they are working with - try to work out why the features were built that way, trade-offs etc.
 - Lead a TKO
 
-## Level 4
-
-### What it looks like
 
 ### Resources
 
