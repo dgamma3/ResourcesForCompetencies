@@ -75,11 +75,9 @@ Owns most of their time and plans its based on outcomes set by manager or team
 
 ### What it looks like
 - Adapts to changes and ambiguity appropriately.
-- Thinks ahead and plans for contingencies and effectively prepares and organizes resources and activities
-- Makes sure things aren’t left to chance; sets up contingency plans to deal with last minute changes, ensures sufficient follow-up to check on progress, uncover potential problems and identify areas where support/assistance might be needed.
 - Anticipates and prepares for problems that may interfere with work or attainment of results. 
 - Priorities tasks based on Important
-- Proactive rather than Reactive, anticipates problems, challenges and prepares for them
+- Proactive rather than reactive, anticipates problems, challenges and prepares for them
 - Plans their time week by week
 
 ### Resources
@@ -102,6 +100,8 @@ Implements short to mid term plans
 - Puts plan(s) in place and effectively implements them.
 - Makes use of available resources and identifies alternatives to meet short-term goals.
 - Focuses on outcomes, not activities
+- Makes sure things aren’t left to chance; sets up contingency plans to deal with last minute changes, ensures sufficient follow-up to check on progress, uncover potential problems and identify areas where support/assistance might be needed.
+- Thinks ahead and plans for contingencies and effectively prepares and organizes resources and activities
 
 ### Resources
 - Read [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1476740054/)
