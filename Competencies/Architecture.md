@@ -53,7 +53,6 @@ Things like
 - Being able to communicate design decisions and the reasoning behind them
 - Owning / Producing Design documents
 - Technical Scoping of the design solution, alligning to current roadmap.
-- Generalisation of Problem set, to support further/wider roadmap decisions.
 - Project level implementation planning
 - Awareness of NFRs (Security, Scalability, Performance, Resilence etc) and considering these while doing application design 
 
@@ -63,6 +62,7 @@ Things like
 - Read [Building Microservices: Designing Fine-Grained Systems - Newman](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
 - Watch [Pluralsight - Clean Architecture: Patterns, Practices, and Principles](https://app.pluralsight.com/library/courses/clean-architecture-patterns-practices-principles/table-of-contents)
 - Spend time with Architect learning more about what architects do.
+- Generalisation of Problem set, to support further/wider roadmap decisions.
 - Document the system that they are working with - try to work out why the features were built that way, trade-offs etc.
 - Lead a TKO
 
