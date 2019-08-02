@@ -56,13 +56,16 @@ Things like
 - Project level implementation planning
 - Awareness of NFRs (Security, Scalability, Performance, Resilence etc) and considering these while doing application design 
 
+## Level 3
+
+### What it looks like
+- Generalisation of Problem set, to support further/wider roadmap decisions.
 
 ### Resources
 - Read [Patterns of Enterprise Application Architecture - Fowler](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
 - Read [Building Microservices: Designing Fine-Grained Systems - Newman](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
 - Watch [Pluralsight - Clean Architecture: Patterns, Practices, and Principles](https://app.pluralsight.com/library/courses/clean-architecture-patterns-practices-principles/table-of-contents)
 - Spend time with Architect learning more about what architects do.
-- Generalisation of Problem set, to support further/wider roadmap decisions.
 - Document the system that they are working with - try to work out why the features were built that way, trade-offs etc.
 - Lead a TKO
 
