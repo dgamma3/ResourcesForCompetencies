@@ -53,6 +53,9 @@ Example Behaviours and Skills
 - Good understanding of estimation techniques; cone of uncertainty factors, etc
 
 Example Tasks Performed
+- Can run an agile meeting if the Team Lead is away and achive the outcomes of the meeting 
+- Gives suggestions on how to improve the teams agile practices based on experience 
+- Can pick up ownership of initaitves to improve the teams practices and deliver one them
 
 ### Resources
 
@@ -69,6 +72,7 @@ Example Behaviours and Skills
 - Able to look at team situations from both a developer (Dev, QC, etc) and product owner and help guide both sides to create balance
 
 Example Tasks Performed
+
 
 ### Resources
 
