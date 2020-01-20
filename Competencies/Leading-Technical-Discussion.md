@@ -22,7 +22,7 @@
 - Encouraging participation - making sure everyone is getting chance to voice their ideas
 - Being able to identify when the discussion is digressing from the set topic & tactically getting it back on track
 - Effectively concluding a meeting e.g. review the main ideas, action items, whats next
-- Visualizing techniques such as UML to illurstate a tech idea
+- Visualizing techniques such as UML to illustrate a tech idea
 - Outcome based discussions
 - Capturing Pros and Cons(risks) of several approaches and reaching a logical conclusion
 
