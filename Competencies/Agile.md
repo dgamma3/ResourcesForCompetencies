@@ -36,6 +36,8 @@ Example Behaviours and Skills
 - Understanding of historical software development - waterfall and the problems with that approach, understanding death-march projects
 
 Example Tasks Performed
+- Activly contributes to the teams agiles meetings such as standups, planning meetings and retros
+- Brings up construtive items in the retros
 
 ### Resources
 
