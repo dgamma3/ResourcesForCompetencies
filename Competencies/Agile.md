@@ -54,6 +54,9 @@ Example Behaviours and Skills
 - Good understanding of estimation techniques; cone of uncertainty factors, etc
 
 Example Tasks Performed
+- Can run an agile team meeting such as planning, retro, etc and achieve the expected outcome of the meeting 
+- Give suggestions on how to improve the teams agile practices based on experience 
+- Pick up ownership of initiatives to improve the teams practices and deliver on them
 
 ### Resources
 https://agileleanlife.com/kaizen-growth-mindset-continuous-improvement/
@@ -73,6 +76,7 @@ Example Behaviours and Skills
 - Able to look at team situations from both a developer (Dev, QC, etc) and product owner and help guide both sides to create balance
 
 Example Tasks Performed
+
 
 ### Resources
 
