@@ -54,7 +54,7 @@ Example Behaviours and Skills
 
 Example Tasks Performed
 - Can run an agile meeting if the Team Lead is away and achive the outcomes of the meeting 
-- Gives suggestions on how to improve the teams agile practices based on experience 
+- Give suggestions on how to improve the teams agile practices based on experience 
 - pick up ownership of initiatives to improve the teams practices and deliver on them
 
 ### Resources
